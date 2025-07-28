@@ -1,0 +1,2017 @@
+user_id,timestamp,event,device,os_version,region,referral_source
+3,2025-07-01 09:54:00,App Install,Android,11,Brazil,Instagram
+3,2025-07-01 09:55:00,Account Registration,Android,11,Brazil,Instagram
+3,2025-07-01 09:56:00,Email/Mobile Verification,Android,11,Brazil,Instagram
+4,2025-07-01 14:26:00,App Install,iOS,16.2,UK,Facebook
+4,2025-07-01 14:27:00,Account Registration,iOS,16.2,UK,Facebook
+5,2025-07-01 12:18:00,App Install,iOS,14.4,India,Referral
+5,2025-07-01 12:19:00,Account Registration,iOS,14.4,India,Referral
+8,2025-07-01 11:43:00,App Install,Android,10,US,Organic
+8,2025-07-01 11:44:00,Account Registration,Android,10,US,Organic
+9,2025-07-01 21:38:00,App Install,iOS,16.2,UK,Google Ads
+9,2025-07-01 21:39:00,Account Registration,iOS,16.2,UK,Google Ads
+9,2025-07-01 21:40:00,Email/Mobile Verification,iOS,16.2,UK,Google Ads
+9,2025-07-01 21:41:00,Identity Verification (KYC),iOS,16.2,UK,Google Ads
+10,2025-07-01 21:57:00,App Install,Android,11,US,Referral
+10,2025-07-01 21:58:00,Account Registration,Android,11,US,Referral
+10,2025-07-01 21:59:00,Email/Mobile Verification,Android,11,US,Referral
+11,2025-07-01 19:46:00,App Install,iOS,14.4,US,Facebook
+12,2025-07-02 06:56:00,App Install,iOS,14.4,Germany,Referral
+13,2025-07-02 04:55:00,App Install,Android,12,Brazil,Referral
+15,2025-07-01 22:08:00,App Install,Android,13,Brazil,Facebook
+15,2025-07-01 22:09:00,Account Registration,Android,13,Brazil,Facebook
+15,2025-07-01 22:10:00,Email/Mobile Verification,Android,13,Brazil,Facebook
+15,2025-07-01 22:11:00,Identity Verification (KYC),Android,13,Brazil,Facebook
+15,2025-07-01 22:12:00,Setup PIN / Add Payment Method,Android,13,Brazil,Facebook
+16,2025-07-01 19:01:00,App Install,Android,12,UK,Facebook
+16,2025-07-01 19:02:00,Account Registration,Android,12,UK,Facebook
+16,2025-07-01 19:03:00,Email/Mobile Verification,Android,12,UK,Facebook
+16,2025-07-01 19:04:00,Identity Verification (KYC),Android,12,UK,Facebook
+18,2025-07-01 09:01:00,App Install,iOS,14.4,Brazil,Instagram
+18,2025-07-01 09:02:00,Account Registration,iOS,14.4,Brazil,Instagram
+19,2025-07-01 17:13:00,App Install,iOS,15.1,US,Facebook
+19,2025-07-01 17:14:00,Account Registration,iOS,15.1,US,Facebook
+20,2025-07-01 13:22:00,App Install,iOS,14.4,Brazil,Google Ads
+20,2025-07-01 13:23:00,Account Registration,iOS,14.4,Brazil,Google Ads
+21,2025-07-01 19:38:00,App Install,iOS,14.4,Brazil,Google Ads
+21,2025-07-01 19:39:00,Account Registration,iOS,14.4,Brazil,Google Ads
+22,2025-07-01 11:11:00,App Install,iOS,14.4,US,Google Ads
+22,2025-07-01 11:12:00,Account Registration,iOS,14.4,US,Google Ads
+24,2025-07-01 17:07:00,App Install,Android,12,India,Instagram
+24,2025-07-01 17:08:00,Account Registration,Android,12,India,Instagram
+24,2025-07-01 17:09:00,Email/Mobile Verification,Android,12,India,Instagram
+24,2025-07-01 17:10:00,Identity Verification (KYC),Android,12,India,Instagram
+24,2025-07-01 17:11:00,Setup PIN / Add Payment Method,Android,12,India,Instagram
+26,2025-07-02 00:56:00,App Install,iOS,15.1,Germany,Referral
+27,2025-07-01 12:43:00,App Install,Android,10,Germany,Organic
+28,2025-07-01 18:30:00,App Install,iOS,14.4,Germany,Google Ads
+28,2025-07-01 18:31:00,Account Registration,iOS,14.4,Germany,Google Ads
+29,2025-07-01 12:11:00,App Install,Android,10,Brazil,Facebook
+29,2025-07-01 12:12:00,Account Registration,Android,10,Brazil,Facebook
+31,2025-07-01 18:44:00,App Install,Android,13,UK,Referral
+31,2025-07-01 18:45:00,Account Registration,Android,13,UK,Referral
+31,2025-07-01 18:46:00,Email/Mobile Verification,Android,13,UK,Referral
+31,2025-07-01 18:47:00,Identity Verification (KYC),Android,13,UK,Referral
+31,2025-07-01 18:48:00,Setup PIN / Add Payment Method,Android,13,UK,Referral
+33,2025-07-02 01:16:00,App Install,iOS,14.4,India,Instagram
+33,2025-07-02 01:17:00,Account Registration,iOS,14.4,India,Instagram
+34,2025-07-01 11:19:00,App Install,Android,11,India,Instagram
+35,2025-07-01 10:21:00,App Install,Android,11,Brazil,Instagram
+35,2025-07-01 10:22:00,Account Registration,Android,11,Brazil,Instagram
+35,2025-07-01 10:23:00,Email/Mobile Verification,Android,11,Brazil,Instagram
+35,2025-07-01 10:24:00,Identity Verification (KYC),Android,11,Brazil,Instagram
+35,2025-07-01 10:25:00,Setup PIN / Add Payment Method,Android,11,Brazil,Instagram
+36,2025-07-01 13:28:00,App Install,iOS,14.4,UK,Referral
+37,2025-07-02 06:12:00,App Install,iOS,14.4,India,Referral
+37,2025-07-02 06:13:00,Account Registration,iOS,14.4,India,Referral
+38,2025-07-01 11:20:00,App Install,Android,12,US,Organic
+38,2025-07-01 11:21:00,Account Registration,Android,12,US,Organic
+39,2025-07-02 07:47:00,App Install,iOS,16.2,Brazil,Facebook
+40,2025-07-01 12:39:00,App Install,Android,11,UK,Facebook
+41,2025-07-01 15:56:00,App Install,iOS,16.2,US,Organic
+41,2025-07-01 15:57:00,Account Registration,iOS,16.2,US,Organic
+41,2025-07-01 15:58:00,Email/Mobile Verification,iOS,16.2,US,Organic
+43,2025-07-02 03:49:00,App Install,Android,12,US,Referral
+43,2025-07-02 03:50:00,Account Registration,Android,12,US,Referral
+45,2025-07-01 10:21:00,App Install,Android,10,UK,Organic
+46,2025-07-01 22:52:00,App Install,Android,10,UK,Instagram
+46,2025-07-01 22:53:00,Account Registration,Android,10,UK,Instagram
+46,2025-07-01 22:54:00,Email/Mobile Verification,Android,10,UK,Instagram
+47,2025-07-01 15:07:00,App Install,Android,11,Germany,Facebook
+47,2025-07-01 15:08:00,Account Registration,Android,11,Germany,Facebook
+47,2025-07-01 15:09:00,Email/Mobile Verification,Android,11,Germany,Facebook
+47,2025-07-01 15:10:00,Identity Verification (KYC),Android,11,Germany,Facebook
+47,2025-07-01 15:11:00,Setup PIN / Add Payment Method,Android,11,Germany,Facebook
+47,2025-07-01 15:12:00,Onboarding Complete,Android,11,Germany,Facebook
+48,2025-07-01 10:19:00,App Install,iOS,14.4,India,Referral
+50,2025-07-01 11:22:00,App Install,Android,13,UK,Organic
+53,2025-07-02 05:41:00,App Install,iOS,15.1,UK,Referral
+54,2025-07-01 09:03:00,App Install,Android,12,India,Referral
+54,2025-07-01 09:04:00,Account Registration,Android,12,India,Referral
+54,2025-07-01 09:05:00,Email/Mobile Verification,Android,12,India,Referral
+54,2025-07-01 09:06:00,Identity Verification (KYC),Android,12,India,Referral
+54,2025-07-01 09:07:00,Setup PIN / Add Payment Method,Android,12,India,Referral
+55,2025-07-01 19:42:00,App Install,iOS,14.4,UK,Instagram
+56,2025-07-01 20:08:00,App Install,iOS,16.2,UK,Referral
+57,2025-07-02 08:07:00,App Install,Android,11,Germany,Referral
+58,2025-07-01 19:22:00,App Install,iOS,15.1,Brazil,Facebook
+58,2025-07-01 19:23:00,Account Registration,iOS,15.1,Brazil,Facebook
+58,2025-07-01 19:24:00,Email/Mobile Verification,iOS,15.1,Brazil,Facebook
+58,2025-07-01 19:25:00,Identity Verification (KYC),iOS,15.1,Brazil,Facebook
+59,2025-07-02 01:09:00,App Install,iOS,16.2,US,Instagram
+59,2025-07-02 01:10:00,Account Registration,iOS,16.2,US,Instagram
+59,2025-07-02 01:11:00,Email/Mobile Verification,iOS,16.2,US,Instagram
+59,2025-07-02 01:12:00,Identity Verification (KYC),iOS,16.2,US,Instagram
+60,2025-07-01 16:40:00,App Install,iOS,14.4,US,Organic
+61,2025-07-01 11:29:00,App Install,Android,11,Germany,Instagram
+61,2025-07-01 11:30:00,Account Registration,Android,11,Germany,Instagram
+61,2025-07-01 11:31:00,Email/Mobile Verification,Android,11,Germany,Instagram
+61,2025-07-01 11:32:00,Identity Verification (KYC),Android,11,Germany,Instagram
+62,2025-07-01 12:38:00,App Install,iOS,14.4,US,Facebook
+63,2025-07-01 13:08:00,App Install,iOS,14.4,Brazil,Google Ads
+63,2025-07-01 13:09:00,Account Registration,iOS,14.4,Brazil,Google Ads
+63,2025-07-01 13:10:00,Email/Mobile Verification,iOS,14.4,Brazil,Google Ads
+63,2025-07-01 13:11:00,Identity Verification (KYC),iOS,14.4,Brazil,Google Ads
+64,2025-07-02 03:42:00,App Install,iOS,16.2,Brazil,Referral
+65,2025-07-02 06:45:00,App Install,iOS,15.1,UK,Google Ads
+65,2025-07-02 06:46:00,Account Registration,iOS,15.1,UK,Google Ads
+65,2025-07-02 06:47:00,Email/Mobile Verification,iOS,15.1,UK,Google Ads
+66,2025-07-01 18:16:00,App Install,iOS,14.4,UK,Google Ads
+66,2025-07-01 18:17:00,Account Registration,iOS,14.4,UK,Google Ads
+69,2025-07-02 04:39:00,App Install,iOS,15.1,Brazil,Facebook
+70,2025-07-02 03:22:00,App Install,iOS,15.1,Germany,Referral
+70,2025-07-02 03:23:00,Account Registration,iOS,15.1,Germany,Referral
+70,2025-07-02 03:24:00,Email/Mobile Verification,iOS,15.1,Germany,Referral
+71,2025-07-01 09:59:00,App Install,Android,12,Germany,Referral
+71,2025-07-01 10:00:00,Account Registration,Android,12,Germany,Referral
+71,2025-07-01 10:01:00,Email/Mobile Verification,Android,12,Germany,Referral
+71,2025-07-01 10:02:00,Identity Verification (KYC),Android,12,Germany,Referral
+71,2025-07-01 10:03:00,Setup PIN / Add Payment Method,Android,12,Germany,Referral
+71,2025-07-01 10:04:00,Onboarding Complete,Android,12,Germany,Referral
+73,2025-07-01 10:42:00,App Install,iOS,14.4,Germany,Google Ads
+73,2025-07-01 10:43:00,Account Registration,iOS,14.4,Germany,Google Ads
+73,2025-07-01 10:44:00,Email/Mobile Verification,iOS,14.4,Germany,Google Ads
+74,2025-07-01 11:47:00,App Install,iOS,15.1,Germany,Organic
+74,2025-07-01 11:48:00,Account Registration,iOS,15.1,Germany,Organic
+75,2025-07-01 10:03:00,App Install,iOS,14.4,India,Facebook
+76,2025-07-02 01:09:00,App Install,Android,11,US,Google Ads
+76,2025-07-02 01:10:00,Account Registration,Android,11,US,Google Ads
+77,2025-07-02 05:43:00,App Install,iOS,15.1,US,Instagram
+77,2025-07-02 05:44:00,Account Registration,iOS,15.1,US,Instagram
+77,2025-07-02 05:45:00,Email/Mobile Verification,iOS,15.1,US,Instagram
+78,2025-07-01 19:38:00,App Install,iOS,14.4,Brazil,Facebook
+78,2025-07-01 19:39:00,Account Registration,iOS,14.4,Brazil,Facebook
+79,2025-07-01 12:28:00,App Install,Android,10,Brazil,Google Ads
+79,2025-07-01 12:29:00,Account Registration,Android,10,Brazil,Google Ads
+79,2025-07-01 12:30:00,Email/Mobile Verification,Android,10,Brazil,Google Ads
+79,2025-07-01 12:31:00,Identity Verification (KYC),Android,10,Brazil,Google Ads
+79,2025-07-01 12:32:00,Setup PIN / Add Payment Method,Android,10,Brazil,Google Ads
+80,2025-07-02 07:34:00,App Install,Android,12,Brazil,Referral
+80,2025-07-02 07:35:00,Account Registration,Android,12,Brazil,Referral
+81,2025-07-01 21:21:00,App Install,iOS,15.1,India,Referral
+81,2025-07-01 21:22:00,Account Registration,iOS,15.1,India,Referral
+81,2025-07-01 21:23:00,Email/Mobile Verification,iOS,15.1,India,Referral
+82,2025-07-02 00:52:00,App Install,iOS,16.2,Brazil,Referral
+82,2025-07-02 00:53:00,Account Registration,iOS,16.2,Brazil,Referral
+83,2025-07-01 17:19:00,App Install,Android,10,UK,Referral
+83,2025-07-01 17:20:00,Account Registration,Android,10,UK,Referral
+83,2025-07-01 17:21:00,Email/Mobile Verification,Android,10,UK,Referral
+84,2025-07-01 16:14:00,App Install,iOS,15.1,US,Referral
+85,2025-07-01 09:20:00,App Install,iOS,16.2,UK,Instagram
+86,2025-07-01 17:12:00,App Install,Android,13,Germany,Instagram
+86,2025-07-01 17:13:00,Account Registration,Android,13,Germany,Instagram
+86,2025-07-01 17:14:00,Email/Mobile Verification,Android,13,Germany,Instagram
+86,2025-07-01 17:15:00,Identity Verification (KYC),Android,13,Germany,Instagram
+87,2025-07-02 07:39:00,App Install,Android,13,US,Organic
+87,2025-07-02 07:40:00,Account Registration,Android,13,US,Organic
+87,2025-07-02 07:41:00,Email/Mobile Verification,Android,13,US,Organic
+88,2025-07-01 19:27:00,App Install,iOS,15.1,Germany,Organic
+90,2025-07-02 02:54:00,App Install,Android,13,UK,Instagram
+90,2025-07-02 02:55:00,Account Registration,Android,13,UK,Instagram
+90,2025-07-02 02:56:00,Email/Mobile Verification,Android,13,UK,Instagram
+92,2025-07-02 08:48:00,App Install,Android,10,Brazil,Organic
+92,2025-07-02 08:49:00,Account Registration,Android,10,Brazil,Organic
+92,2025-07-02 08:50:00,Email/Mobile Verification,Android,10,Brazil,Organic
+93,2025-07-02 00:02:00,App Install,Android,12,Germany,Referral
+93,2025-07-02 00:03:00,Account Registration,Android,12,Germany,Referral
+96,2025-07-02 05:41:00,App Install,Android,10,Brazil,Referral
+96,2025-07-02 05:42:00,Account Registration,Android,10,Brazil,Referral
+96,2025-07-02 05:43:00,Email/Mobile Verification,Android,10,Brazil,Referral
+97,2025-07-01 19:25:00,App Install,iOS,15.1,Brazil,Referral
+101,2025-07-01 11:25:00,App Install,iOS,16.2,UK,Referral
+101,2025-07-01 11:26:00,Account Registration,iOS,16.2,UK,Referral
+101,2025-07-01 11:27:00,Email/Mobile Verification,iOS,16.2,UK,Referral
+101,2025-07-01 11:28:00,Identity Verification (KYC),iOS,16.2,UK,Referral
+101,2025-07-01 11:29:00,Setup PIN / Add Payment Method,iOS,16.2,UK,Referral
+101,2025-07-01 11:30:00,Onboarding Complete,iOS,16.2,UK,Referral
+103,2025-07-01 14:39:00,App Install,iOS,14.4,India,Facebook
+103,2025-07-01 14:40:00,Account Registration,iOS,14.4,India,Facebook
+103,2025-07-01 14:41:00,Email/Mobile Verification,iOS,14.4,India,Facebook
+103,2025-07-01 14:42:00,Identity Verification (KYC),iOS,14.4,India,Facebook
+104,2025-07-01 18:17:00,App Install,iOS,16.2,UK,Referral
+104,2025-07-01 18:18:00,Account Registration,iOS,16.2,UK,Referral
+106,2025-07-01 10:22:00,App Install,Android,10,UK,Instagram
+107,2025-07-01 23:52:00,App Install,iOS,15.1,US,Instagram
+107,2025-07-01 23:53:00,Account Registration,iOS,15.1,US,Instagram
+109,2025-07-01 18:50:00,App Install,Android,12,Germany,Referral
+109,2025-07-01 18:51:00,Account Registration,Android,12,Germany,Referral
+109,2025-07-01 18:52:00,Email/Mobile Verification,Android,12,Germany,Referral
+110,2025-07-01 12:57:00,App Install,Android,12,UK,Organic
+110,2025-07-01 12:58:00,Account Registration,Android,12,UK,Organic
+110,2025-07-01 12:59:00,Email/Mobile Verification,Android,12,UK,Organic
+110,2025-07-01 13:00:00,Identity Verification (KYC),Android,12,UK,Organic
+110,2025-07-01 13:01:00,Setup PIN / Add Payment Method,Android,12,UK,Organic
+111,2025-07-01 21:20:00,App Install,iOS,14.4,US,Instagram
+111,2025-07-01 21:21:00,Account Registration,iOS,14.4,US,Instagram
+111,2025-07-01 21:22:00,Email/Mobile Verification,iOS,14.4,US,Instagram
+112,2025-07-01 23:57:00,App Install,iOS,16.2,US,Organic
+112,2025-07-01 23:58:00,Account Registration,iOS,16.2,US,Organic
+113,2025-07-01 09:28:00,App Install,Android,11,UK,Instagram
+114,2025-07-02 02:00:00,App Install,Android,13,India,Google Ads
+115,2025-07-01 17:19:00,App Install,iOS,15.1,Germany,Referral
+116,2025-07-01 23:09:00,App Install,Android,11,India,Organic
+116,2025-07-01 23:10:00,Account Registration,Android,11,India,Organic
+117,2025-07-02 04:47:00,App Install,Android,12,UK,Instagram
+117,2025-07-02 04:48:00,Account Registration,Android,12,UK,Instagram
+118,2025-07-02 03:32:00,App Install,iOS,15.1,UK,Instagram
+118,2025-07-02 03:33:00,Account Registration,iOS,15.1,UK,Instagram
+118,2025-07-02 03:34:00,Email/Mobile Verification,iOS,15.1,UK,Instagram
+118,2025-07-02 03:35:00,Identity Verification (KYC),iOS,15.1,UK,Instagram
+119,2025-07-01 19:51:00,App Install,iOS,14.4,Germany,Facebook
+119,2025-07-01 19:52:00,Account Registration,iOS,14.4,Germany,Facebook
+119,2025-07-01 19:53:00,Email/Mobile Verification,iOS,14.4,Germany,Facebook
+120,2025-07-02 02:08:00,App Install,Android,13,India,Google Ads
+120,2025-07-02 02:09:00,Account Registration,Android,13,India,Google Ads
+121,2025-07-01 09:31:00,App Install,iOS,14.4,Brazil,Referral
+121,2025-07-01 09:32:00,Account Registration,iOS,14.4,Brazil,Referral
+121,2025-07-01 09:33:00,Email/Mobile Verification,iOS,14.4,Brazil,Referral
+122,2025-07-02 08:38:00,App Install,iOS,15.1,UK,Instagram
+123,2025-07-01 19:48:00,App Install,iOS,16.2,Brazil,Referral
+123,2025-07-01 19:49:00,Account Registration,iOS,16.2,Brazil,Referral
+123,2025-07-01 19:50:00,Email/Mobile Verification,iOS,16.2,Brazil,Referral
+123,2025-07-01 19:51:00,Identity Verification (KYC),iOS,16.2,Brazil,Referral
+123,2025-07-01 19:52:00,Setup PIN / Add Payment Method,iOS,16.2,Brazil,Referral
+124,2025-07-01 12:21:00,App Install,iOS,14.4,India,Referral
+124,2025-07-01 12:22:00,Account Registration,iOS,14.4,India,Referral
+125,2025-07-01 20:04:00,App Install,Android,12,India,Facebook
+126,2025-07-02 03:07:00,App Install,iOS,15.1,US,Google Ads
+126,2025-07-02 03:08:00,Account Registration,iOS,15.1,US,Google Ads
+127,2025-07-02 06:09:00,App Install,Android,10,Brazil,Referral
+127,2025-07-02 06:10:00,Account Registration,Android,10,Brazil,Referral
+127,2025-07-02 06:11:00,Email/Mobile Verification,Android,10,Brazil,Referral
+128,2025-07-02 00:52:00,App Install,iOS,15.1,UK,Facebook
+128,2025-07-02 00:53:00,Account Registration,iOS,15.1,UK,Facebook
+129,2025-07-02 06:48:00,App Install,iOS,15.1,Brazil,Organic
+129,2025-07-02 06:49:00,Account Registration,iOS,15.1,Brazil,Organic
+129,2025-07-02 06:50:00,Email/Mobile Verification,iOS,15.1,Brazil,Organic
+130,2025-07-01 22:01:00,App Install,iOS,15.1,India,Google Ads
+130,2025-07-01 22:02:00,Account Registration,iOS,15.1,India,Google Ads
+130,2025-07-01 22:03:00,Email/Mobile Verification,iOS,15.1,India,Google Ads
+131,2025-07-02 08:24:00,App Install,iOS,15.1,India,Instagram
+131,2025-07-02 08:25:00,Account Registration,iOS,15.1,India,Instagram
+131,2025-07-02 08:26:00,Email/Mobile Verification,iOS,15.1,India,Instagram
+131,2025-07-02 08:27:00,Identity Verification (KYC),iOS,15.1,India,Instagram
+131,2025-07-02 08:28:00,Setup PIN / Add Payment Method,iOS,15.1,India,Instagram
+131,2025-07-02 08:29:00,Onboarding Complete,iOS,15.1,India,Instagram
+132,2025-07-02 06:11:00,App Install,Android,12,US,Google Ads
+132,2025-07-02 06:12:00,Account Registration,Android,12,US,Google Ads
+132,2025-07-02 06:13:00,Email/Mobile Verification,Android,12,US,Google Ads
+132,2025-07-02 06:14:00,Identity Verification (KYC),Android,12,US,Google Ads
+133,2025-07-01 10:08:00,App Install,Android,10,UK,Referral
+133,2025-07-01 10:09:00,Account Registration,Android,10,UK,Referral
+135,2025-07-01 14:36:00,App Install,iOS,16.2,Brazil,Organic
+135,2025-07-01 14:37:00,Account Registration,iOS,16.2,Brazil,Organic
+135,2025-07-01 14:38:00,Email/Mobile Verification,iOS,16.2,Brazil,Organic
+135,2025-07-01 14:39:00,Identity Verification (KYC),iOS,16.2,Brazil,Organic
+135,2025-07-01 14:40:00,Setup PIN / Add Payment Method,iOS,16.2,Brazil,Organic
+136,2025-07-01 16:42:00,App Install,Android,13,India,Google Ads
+136,2025-07-01 16:43:00,Account Registration,Android,13,India,Google Ads
+136,2025-07-01 16:44:00,Email/Mobile Verification,Android,13,India,Google Ads
+136,2025-07-01 16:45:00,Identity Verification (KYC),Android,13,India,Google Ads
+136,2025-07-01 16:46:00,Setup PIN / Add Payment Method,Android,13,India,Google Ads
+137,2025-07-01 13:13:00,App Install,iOS,14.4,UK,Instagram
+137,2025-07-01 13:14:00,Account Registration,iOS,14.4,UK,Instagram
+137,2025-07-01 13:15:00,Email/Mobile Verification,iOS,14.4,UK,Instagram
+137,2025-07-01 13:16:00,Identity Verification (KYC),iOS,14.4,UK,Instagram
+137,2025-07-01 13:17:00,Setup PIN / Add Payment Method,iOS,14.4,UK,Instagram
+137,2025-07-01 13:18:00,Onboarding Complete,iOS,14.4,UK,Instagram
+138,2025-07-02 06:08:00,App Install,Android,11,Germany,Facebook
+138,2025-07-02 06:09:00,Account Registration,Android,11,Germany,Facebook
+138,2025-07-02 06:10:00,Email/Mobile Verification,Android,11,Germany,Facebook
+140,2025-07-01 12:19:00,App Install,Android,12,Germany,Facebook
+140,2025-07-01 12:20:00,Account Registration,Android,12,Germany,Facebook
+141,2025-07-02 05:02:00,App Install,iOS,16.2,Brazil,Referral
+142,2025-07-02 06:00:00,App Install,iOS,16.2,India,Referral
+142,2025-07-02 06:01:00,Account Registration,iOS,16.2,India,Referral
+143,2025-07-01 17:03:00,App Install,iOS,14.4,Germany,Referral
+144,2025-07-01 22:35:00,App Install,iOS,16.2,UK,Facebook
+144,2025-07-01 22:36:00,Account Registration,iOS,16.2,UK,Facebook
+144,2025-07-01 22:37:00,Email/Mobile Verification,iOS,16.2,UK,Facebook
+144,2025-07-01 22:38:00,Identity Verification (KYC),iOS,16.2,UK,Facebook
+145,2025-07-01 17:18:00,App Install,Android,10,India,Organic
+145,2025-07-01 17:19:00,Account Registration,Android,10,India,Organic
+146,2025-07-01 14:02:00,App Install,Android,11,US,Organic
+146,2025-07-01 14:03:00,Account Registration,Android,11,US,Organic
+148,2025-07-01 17:07:00,App Install,Android,11,India,Organic
+150,2025-07-02 02:31:00,App Install,Android,13,Germany,Organic
+150,2025-07-02 02:32:00,Account Registration,Android,13,Germany,Organic
+151,2025-07-01 11:04:00,App Install,Android,12,Germany,Facebook
+151,2025-07-01 11:05:00,Account Registration,Android,12,Germany,Facebook
+151,2025-07-01 11:06:00,Email/Mobile Verification,Android,12,Germany,Facebook
+153,2025-07-02 03:43:00,App Install,Android,12,Brazil,Instagram
+153,2025-07-02 03:44:00,Account Registration,Android,12,Brazil,Instagram
+153,2025-07-02 03:45:00,Email/Mobile Verification,Android,12,Brazil,Instagram
+154,2025-07-01 16:20:00,App Install,iOS,14.4,India,Instagram
+154,2025-07-01 16:21:00,Account Registration,iOS,14.4,India,Instagram
+154,2025-07-01 16:22:00,Email/Mobile Verification,iOS,14.4,India,Instagram
+154,2025-07-01 16:23:00,Identity Verification (KYC),iOS,14.4,India,Instagram
+155,2025-07-02 07:42:00,App Install,Android,12,Germany,Organic
+155,2025-07-02 07:43:00,Account Registration,Android,12,Germany,Organic
+155,2025-07-02 07:44:00,Email/Mobile Verification,Android,12,Germany,Organic
+156,2025-07-01 12:17:00,App Install,Android,10,India,Referral
+156,2025-07-01 12:18:00,Account Registration,Android,10,India,Referral
+157,2025-07-01 21:04:00,App Install,Android,12,India,Referral
+157,2025-07-01 21:05:00,Account Registration,Android,12,India,Referral
+157,2025-07-01 21:06:00,Email/Mobile Verification,Android,12,India,Referral
+157,2025-07-01 21:07:00,Identity Verification (KYC),Android,12,India,Referral
+158,2025-07-01 12:32:00,App Install,iOS,16.2,UK,Organic
+159,2025-07-02 03:59:00,App Install,iOS,14.4,India,Organic
+159,2025-07-02 04:00:00,Account Registration,iOS,14.4,India,Organic
+159,2025-07-02 04:01:00,Email/Mobile Verification,iOS,14.4,India,Organic
+159,2025-07-02 04:02:00,Identity Verification (KYC),iOS,14.4,India,Organic
+159,2025-07-02 04:03:00,Setup PIN / Add Payment Method,iOS,14.4,India,Organic
+159,2025-07-02 04:04:00,Onboarding Complete,iOS,14.4,India,Organic
+160,2025-07-01 18:19:00,App Install,Android,12,India,Google Ads
+160,2025-07-01 18:20:00,Account Registration,Android,12,India,Google Ads
+161,2025-07-02 07:26:00,App Install,Android,11,US,Instagram
+162,2025-07-01 21:50:00,App Install,Android,10,Brazil,Google Ads
+162,2025-07-01 21:51:00,Account Registration,Android,10,Brazil,Google Ads
+164,2025-07-02 07:35:00,App Install,Android,10,UK,Referral
+164,2025-07-02 07:36:00,Account Registration,Android,10,UK,Referral
+164,2025-07-02 07:37:00,Email/Mobile Verification,Android,10,UK,Referral
+165,2025-07-01 18:40:00,App Install,Android,12,Germany,Facebook
+165,2025-07-01 18:41:00,Account Registration,Android,12,Germany,Facebook
+165,2025-07-01 18:42:00,Email/Mobile Verification,Android,12,Germany,Facebook
+166,2025-07-01 09:15:00,App Install,Android,13,Brazil,Facebook
+166,2025-07-01 09:16:00,Account Registration,Android,13,Brazil,Facebook
+166,2025-07-01 09:17:00,Email/Mobile Verification,Android,13,Brazil,Facebook
+166,2025-07-01 09:18:00,Identity Verification (KYC),Android,13,Brazil,Facebook
+168,2025-07-01 10:26:00,App Install,Android,12,India,Referral
+168,2025-07-01 10:27:00,Account Registration,Android,12,India,Referral
+169,2025-07-01 22:48:00,App Install,iOS,16.2,Germany,Instagram
+169,2025-07-01 22:49:00,Account Registration,iOS,16.2,Germany,Instagram
+170,2025-07-02 00:42:00,App Install,Android,12,US,Instagram
+170,2025-07-02 00:43:00,Account Registration,Android,12,US,Instagram
+171,2025-07-01 22:40:00,App Install,Android,11,Germany,Instagram
+171,2025-07-01 22:41:00,Account Registration,Android,11,Germany,Instagram
+172,2025-07-01 11:36:00,App Install,iOS,14.4,UK,Google Ads
+174,2025-07-01 14:13:00,App Install,iOS,14.4,US,Instagram
+174,2025-07-01 14:14:00,Account Registration,iOS,14.4,US,Instagram
+175,2025-07-02 00:19:00,App Install,iOS,15.1,Brazil,Instagram
+175,2025-07-02 00:20:00,Account Registration,iOS,15.1,Brazil,Instagram
+175,2025-07-02 00:21:00,Email/Mobile Verification,iOS,15.1,Brazil,Instagram
+175,2025-07-02 00:22:00,Identity Verification (KYC),iOS,15.1,Brazil,Instagram
+176,2025-07-02 01:00:00,App Install,iOS,14.4,Germany,Facebook
+176,2025-07-02 01:01:00,Account Registration,iOS,14.4,Germany,Facebook
+177,2025-07-01 19:35:00,App Install,Android,12,Brazil,Facebook
+178,2025-07-02 05:59:00,App Install,iOS,15.1,India,Facebook
+178,2025-07-02 06:00:00,Account Registration,iOS,15.1,India,Facebook
+178,2025-07-02 06:01:00,Email/Mobile Verification,iOS,15.1,India,Facebook
+178,2025-07-02 06:02:00,Identity Verification (KYC),iOS,15.1,India,Facebook
+178,2025-07-02 06:03:00,Setup PIN / Add Payment Method,iOS,15.1,India,Facebook
+180,2025-07-01 11:52:00,App Install,Android,13,India,Organic
+181,2025-07-02 02:50:00,App Install,Android,13,Germany,Instagram
+181,2025-07-02 02:51:00,Account Registration,Android,13,Germany,Instagram
+181,2025-07-02 02:52:00,Email/Mobile Verification,Android,13,Germany,Instagram
+182,2025-07-02 06:32:00,App Install,iOS,16.2,Brazil,Facebook
+183,2025-07-02 07:24:00,App Install,Android,13,UK,Organic
+183,2025-07-02 07:25:00,Account Registration,Android,13,UK,Organic
+184,2025-07-02 07:23:00,App Install,Android,11,UK,Organic
+184,2025-07-02 07:24:00,Account Registration,Android,11,UK,Organic
+184,2025-07-02 07:25:00,Email/Mobile Verification,Android,11,UK,Organic
+184,2025-07-02 07:26:00,Identity Verification (KYC),Android,11,UK,Organic
+185,2025-07-02 07:52:00,App Install,iOS,16.2,UK,Google Ads
+185,2025-07-02 07:53:00,Account Registration,iOS,16.2,UK,Google Ads
+185,2025-07-02 07:54:00,Email/Mobile Verification,iOS,16.2,UK,Google Ads
+185,2025-07-02 07:55:00,Identity Verification (KYC),iOS,16.2,UK,Google Ads
+186,2025-07-01 21:22:00,App Install,iOS,16.2,UK,Facebook
+186,2025-07-01 21:23:00,Account Registration,iOS,16.2,UK,Facebook
+188,2025-07-01 13:28:00,App Install,Android,10,UK,Instagram
+189,2025-07-01 23:01:00,App Install,Android,11,Germany,Facebook
+189,2025-07-01 23:02:00,Account Registration,Android,11,Germany,Facebook
+189,2025-07-01 23:03:00,Email/Mobile Verification,Android,11,Germany,Facebook
+189,2025-07-01 23:04:00,Identity Verification (KYC),Android,11,Germany,Facebook
+189,2025-07-01 23:05:00,Setup PIN / Add Payment Method,Android,11,Germany,Facebook
+189,2025-07-01 23:06:00,Onboarding Complete,Android,11,Germany,Facebook
+190,2025-07-01 15:37:00,App Install,Android,11,UK,Referral
+190,2025-07-01 15:38:00,Account Registration,Android,11,UK,Referral
+190,2025-07-01 15:39:00,Email/Mobile Verification,Android,11,UK,Referral
+191,2025-07-01 23:17:00,App Install,iOS,15.1,Brazil,Instagram
+191,2025-07-01 23:18:00,Account Registration,iOS,15.1,Brazil,Instagram
+191,2025-07-01 23:19:00,Email/Mobile Verification,iOS,15.1,Brazil,Instagram
+192,2025-07-02 03:55:00,App Install,iOS,14.4,Germany,Organic
+192,2025-07-02 03:56:00,Account Registration,iOS,14.4,Germany,Organic
+192,2025-07-02 03:57:00,Email/Mobile Verification,iOS,14.4,Germany,Organic
+194,2025-07-01 20:55:00,App Install,iOS,14.4,US,Referral
+194,2025-07-01 20:56:00,Account Registration,iOS,14.4,US,Referral
+195,2025-07-01 21:47:00,App Install,iOS,14.4,Germany,Facebook
+195,2025-07-01 21:48:00,Account Registration,iOS,14.4,Germany,Facebook
+196,2025-07-01 18:47:00,App Install,iOS,14.4,US,Facebook
+196,2025-07-01 18:48:00,Account Registration,iOS,14.4,US,Facebook
+196,2025-07-01 18:49:00,Email/Mobile Verification,iOS,14.4,US,Facebook
+196,2025-07-01 18:50:00,Identity Verification (KYC),iOS,14.4,US,Facebook
+197,2025-07-01 16:21:00,App Install,Android,10,India,Organic
+197,2025-07-01 16:22:00,Account Registration,Android,10,India,Organic
+197,2025-07-01 16:23:00,Email/Mobile Verification,Android,10,India,Organic
+197,2025-07-01 16:24:00,Identity Verification (KYC),Android,10,India,Organic
+198,2025-07-01 10:37:00,App Install,iOS,14.4,UK,Facebook
+198,2025-07-01 10:38:00,Account Registration,iOS,14.4,UK,Facebook
+198,2025-07-01 10:39:00,Email/Mobile Verification,iOS,14.4,UK,Facebook
+199,2025-07-02 06:34:00,App Install,iOS,16.2,Brazil,Facebook
+200,2025-07-02 05:59:00,App Install,Android,12,Germany,Facebook
+200,2025-07-02 06:00:00,Account Registration,Android,12,Germany,Facebook
+201,2025-07-02 03:34:00,App Install,Android,12,India,Instagram
+201,2025-07-02 03:35:00,Account Registration,Android,12,India,Instagram
+201,2025-07-02 03:36:00,Email/Mobile Verification,Android,12,India,Instagram
+202,2025-07-01 17:39:00,App Install,iOS,14.4,Germany,Organic
+202,2025-07-01 17:40:00,Account Registration,iOS,14.4,Germany,Organic
+204,2025-07-02 08:44:00,App Install,iOS,16.2,US,Referral
+205,2025-07-01 19:00:00,App Install,Android,10,Germany,Facebook
+205,2025-07-01 19:01:00,Account Registration,Android,10,Germany,Facebook
+205,2025-07-01 19:02:00,Email/Mobile Verification,Android,10,Germany,Facebook
+206,2025-07-02 01:09:00,App Install,iOS,16.2,Germany,Instagram
+206,2025-07-02 01:10:00,Account Registration,iOS,16.2,Germany,Instagram
+207,2025-07-01 13:14:00,App Install,iOS,14.4,UK,Organic
+207,2025-07-01 13:15:00,Account Registration,iOS,14.4,UK,Organic
+207,2025-07-01 13:16:00,Email/Mobile Verification,iOS,14.4,UK,Organic
+208,2025-07-02 08:37:00,App Install,iOS,15.1,US,Referral
+208,2025-07-02 08:38:00,Account Registration,iOS,15.1,US,Referral
+208,2025-07-02 08:39:00,Email/Mobile Verification,iOS,15.1,US,Referral
+208,2025-07-02 08:40:00,Identity Verification (KYC),iOS,15.1,US,Referral
+208,2025-07-02 08:41:00,Setup PIN / Add Payment Method,iOS,15.1,US,Referral
+209,2025-07-01 11:43:00,App Install,Android,12,UK,Facebook
+210,2025-07-02 08:32:00,App Install,iOS,16.2,Germany,Google Ads
+210,2025-07-02 08:33:00,Account Registration,iOS,16.2,Germany,Google Ads
+210,2025-07-02 08:34:00,Email/Mobile Verification,iOS,16.2,Germany,Google Ads
+210,2025-07-02 08:35:00,Identity Verification (KYC),iOS,16.2,Germany,Google Ads
+210,2025-07-02 08:36:00,Setup PIN / Add Payment Method,iOS,16.2,Germany,Google Ads
+211,2025-07-02 02:30:00,App Install,Android,10,Germany,Organic
+211,2025-07-02 02:31:00,Account Registration,Android,10,Germany,Organic
+211,2025-07-02 02:32:00,Email/Mobile Verification,Android,10,Germany,Organic
+212,2025-07-01 17:03:00,App Install,iOS,14.4,US,Facebook
+212,2025-07-01 17:04:00,Account Registration,iOS,14.4,US,Facebook
+213,2025-07-01 21:41:00,App Install,Android,11,Germany,Organic
+214,2025-07-02 07:10:00,App Install,Android,12,Germany,Organic
+214,2025-07-02 07:11:00,Account Registration,Android,12,Germany,Organic
+216,2025-07-02 05:53:00,App Install,iOS,16.2,Germany,Google Ads
+216,2025-07-02 05:54:00,Account Registration,iOS,16.2,Germany,Google Ads
+216,2025-07-02 05:55:00,Email/Mobile Verification,iOS,16.2,Germany,Google Ads
+217,2025-07-01 11:59:00,App Install,Android,13,US,Referral
+217,2025-07-01 12:00:00,Account Registration,Android,13,US,Referral
+217,2025-07-01 12:01:00,Email/Mobile Verification,Android,13,US,Referral
+217,2025-07-01 12:02:00,Identity Verification (KYC),Android,13,US,Referral
+217,2025-07-01 12:03:00,Setup PIN / Add Payment Method,Android,13,US,Referral
+218,2025-07-01 21:20:00,App Install,iOS,15.1,US,Google Ads
+219,2025-07-01 09:53:00,App Install,Android,11,US,Referral
+219,2025-07-01 09:54:00,Account Registration,Android,11,US,Referral
+219,2025-07-01 09:55:00,Email/Mobile Verification,Android,11,US,Referral
+219,2025-07-01 09:56:00,Identity Verification (KYC),Android,11,US,Referral
+220,2025-07-02 01:20:00,App Install,Android,10,UK,Referral
+220,2025-07-02 01:21:00,Account Registration,Android,10,UK,Referral
+220,2025-07-02 01:22:00,Email/Mobile Verification,Android,10,UK,Referral
+221,2025-07-02 00:54:00,App Install,iOS,16.2,India,Referral
+221,2025-07-02 00:55:00,Account Registration,iOS,16.2,India,Referral
+221,2025-07-02 00:56:00,Email/Mobile Verification,iOS,16.2,India,Referral
+221,2025-07-02 00:57:00,Identity Verification (KYC),iOS,16.2,India,Referral
+221,2025-07-02 00:58:00,Setup PIN / Add Payment Method,iOS,16.2,India,Referral
+222,2025-07-01 13:14:00,App Install,Android,13,Brazil,Facebook
+222,2025-07-01 13:15:00,Account Registration,Android,13,Brazil,Facebook
+223,2025-07-01 11:41:00,App Install,Android,12,Brazil,Organic
+223,2025-07-01 11:42:00,Account Registration,Android,12,Brazil,Organic
+223,2025-07-01 11:43:00,Email/Mobile Verification,Android,12,Brazil,Organic
+224,2025-07-02 02:09:00,App Install,iOS,16.2,Brazil,Facebook
+224,2025-07-02 02:10:00,Account Registration,iOS,16.2,Brazil,Facebook
+224,2025-07-02 02:11:00,Email/Mobile Verification,iOS,16.2,Brazil,Facebook
+226,2025-07-01 23:13:00,App Install,iOS,16.2,US,Instagram
+227,2025-07-01 17:21:00,App Install,iOS,16.2,UK,Referral
+227,2025-07-01 17:22:00,Account Registration,iOS,16.2,UK,Referral
+228,2025-07-01 23:11:00,App Install,Android,10,US,Referral
+230,2025-07-01 19:53:00,App Install,iOS,16.2,Brazil,Facebook
+231,2025-07-01 10:43:00,App Install,iOS,14.4,US,Facebook
+231,2025-07-01 10:44:00,Account Registration,iOS,14.4,US,Facebook
+231,2025-07-01 10:45:00,Email/Mobile Verification,iOS,14.4,US,Facebook
+232,2025-07-01 15:28:00,App Install,Android,12,Brazil,Organic
+232,2025-07-01 15:29:00,Account Registration,Android,12,Brazil,Organic
+232,2025-07-01 15:30:00,Email/Mobile Verification,Android,12,Brazil,Organic
+233,2025-07-01 22:25:00,App Install,iOS,15.1,India,Facebook
+233,2025-07-01 22:26:00,Account Registration,iOS,15.1,India,Facebook
+234,2025-07-02 01:53:00,App Install,iOS,14.4,India,Organic
+234,2025-07-02 01:54:00,Account Registration,iOS,14.4,India,Organic
+234,2025-07-02 01:55:00,Email/Mobile Verification,iOS,14.4,India,Organic
+235,2025-07-01 18:01:00,App Install,Android,10,Germany,Google Ads
+235,2025-07-01 18:02:00,Account Registration,Android,10,Germany,Google Ads
+236,2025-07-01 15:38:00,App Install,iOS,14.4,Brazil,Instagram
+237,2025-07-01 18:32:00,App Install,iOS,16.2,Germany,Instagram
+237,2025-07-01 18:33:00,Account Registration,iOS,16.2,Germany,Instagram
+237,2025-07-01 18:34:00,Email/Mobile Verification,iOS,16.2,Germany,Instagram
+238,2025-07-02 04:02:00,App Install,Android,13,UK,Organic
+238,2025-07-02 04:03:00,Account Registration,Android,13,UK,Organic
+240,2025-07-01 14:05:00,App Install,iOS,15.1,Brazil,Referral
+240,2025-07-01 14:06:00,Account Registration,iOS,15.1,Brazil,Referral
+241,2025-07-01 19:12:00,App Install,iOS,14.4,Germany,Instagram
+241,2025-07-01 19:13:00,Account Registration,iOS,14.4,Germany,Instagram
+241,2025-07-01 19:14:00,Email/Mobile Verification,iOS,14.4,Germany,Instagram
+242,2025-07-01 20:18:00,App Install,iOS,15.1,India,Organic
+242,2025-07-01 20:19:00,Account Registration,iOS,15.1,India,Organic
+242,2025-07-01 20:20:00,Email/Mobile Verification,iOS,15.1,India,Organic
+242,2025-07-01 20:21:00,Identity Verification (KYC),iOS,15.1,India,Organic
+242,2025-07-01 20:22:00,Setup PIN / Add Payment Method,iOS,15.1,India,Organic
+243,2025-07-02 04:42:00,App Install,Android,13,UK,Instagram
+246,2025-07-02 08:34:00,App Install,iOS,15.1,US,Referral
+246,2025-07-02 08:35:00,Account Registration,iOS,15.1,US,Referral
+246,2025-07-02 08:36:00,Email/Mobile Verification,iOS,15.1,US,Referral
+247,2025-07-02 04:08:00,App Install,Android,11,Brazil,Google Ads
+247,2025-07-02 04:09:00,Account Registration,Android,11,Brazil,Google Ads
+247,2025-07-02 04:10:00,Email/Mobile Verification,Android,11,Brazil,Google Ads
+248,2025-07-02 03:38:00,App Install,Android,13,Brazil,Organic
+248,2025-07-02 03:39:00,Account Registration,Android,13,Brazil,Organic
+248,2025-07-02 03:40:00,Email/Mobile Verification,Android,13,Brazil,Organic
+248,2025-07-02 03:41:00,Identity Verification (KYC),Android,13,Brazil,Organic
+248,2025-07-02 03:42:00,Setup PIN / Add Payment Method,Android,13,Brazil,Organic
+249,2025-07-01 19:11:00,App Install,Android,11,UK,Instagram
+249,2025-07-01 19:12:00,Account Registration,Android,11,UK,Instagram
+250,2025-07-01 19:49:00,App Install,iOS,16.2,US,Referral
+250,2025-07-01 19:50:00,Account Registration,iOS,16.2,US,Referral
+250,2025-07-01 19:51:00,Email/Mobile Verification,iOS,16.2,US,Referral
+250,2025-07-01 19:52:00,Identity Verification (KYC),iOS,16.2,US,Referral
+252,2025-07-02 01:21:00,App Install,Android,12,Germany,Organic
+252,2025-07-02 01:22:00,Account Registration,Android,12,Germany,Organic
+253,2025-07-02 05:01:00,App Install,iOS,14.4,India,Instagram
+254,2025-07-01 23:06:00,App Install,Android,11,India,Facebook
+254,2025-07-01 23:07:00,Account Registration,Android,11,India,Facebook
+254,2025-07-01 23:08:00,Email/Mobile Verification,Android,11,India,Facebook
+256,2025-07-01 12:03:00,App Install,iOS,15.1,UK,Facebook
+257,2025-07-01 10:14:00,App Install,Android,11,Germany,Google Ads
+257,2025-07-01 10:15:00,Account Registration,Android,11,Germany,Google Ads
+257,2025-07-01 10:16:00,Email/Mobile Verification,Android,11,Germany,Google Ads
+257,2025-07-01 10:17:00,Identity Verification (KYC),Android,11,Germany,Google Ads
+257,2025-07-01 10:18:00,Setup PIN / Add Payment Method,Android,11,Germany,Google Ads
+257,2025-07-01 10:19:00,Onboarding Complete,Android,11,Germany,Google Ads
+259,2025-07-02 02:53:00,App Install,iOS,15.1,Germany,Instagram
+259,2025-07-02 02:54:00,Account Registration,iOS,15.1,Germany,Instagram
+259,2025-07-02 02:55:00,Email/Mobile Verification,iOS,15.1,Germany,Instagram
+260,2025-07-02 00:39:00,App Install,Android,10,UK,Google Ads
+260,2025-07-02 00:40:00,Account Registration,Android,10,UK,Google Ads
+261,2025-07-01 14:59:00,App Install,iOS,15.1,Brazil,Google Ads
+261,2025-07-01 15:00:00,Account Registration,iOS,15.1,Brazil,Google Ads
+261,2025-07-01 15:01:00,Email/Mobile Verification,iOS,15.1,Brazil,Google Ads
+262,2025-07-01 15:18:00,App Install,iOS,14.4,Germany,Facebook
+262,2025-07-01 15:19:00,Account Registration,iOS,14.4,Germany,Facebook
+262,2025-07-01 15:20:00,Email/Mobile Verification,iOS,14.4,Germany,Facebook
+263,2025-07-01 20:15:00,App Install,iOS,14.4,Germany,Organic
+263,2025-07-01 20:16:00,Account Registration,iOS,14.4,Germany,Organic
+265,2025-07-02 09:00:00,App Install,iOS,14.4,Germany,Instagram
+265,2025-07-02 09:01:00,Account Registration,iOS,14.4,Germany,Instagram
+265,2025-07-02 09:02:00,Email/Mobile Verification,iOS,14.4,Germany,Instagram
+265,2025-07-02 09:03:00,Identity Verification (KYC),iOS,14.4,Germany,Instagram
+266,2025-07-01 14:13:00,App Install,Android,11,US,Referral
+266,2025-07-01 14:14:00,Account Registration,Android,11,US,Referral
+267,2025-07-02 08:13:00,App Install,iOS,16.2,US,Google Ads
+267,2025-07-02 08:14:00,Account Registration,iOS,16.2,US,Google Ads
+269,2025-07-02 02:45:00,App Install,Android,11,US,Organic
+269,2025-07-02 02:46:00,Account Registration,Android,11,US,Organic
+269,2025-07-02 02:47:00,Email/Mobile Verification,Android,11,US,Organic
+270,2025-07-02 02:31:00,App Install,iOS,14.4,Germany,Google Ads
+270,2025-07-02 02:32:00,Account Registration,iOS,14.4,Germany,Google Ads
+270,2025-07-02 02:33:00,Email/Mobile Verification,iOS,14.4,Germany,Google Ads
+270,2025-07-02 02:34:00,Identity Verification (KYC),iOS,14.4,Germany,Google Ads
+271,2025-07-01 16:26:00,App Install,Android,13,UK,Facebook
+272,2025-07-01 11:03:00,App Install,iOS,16.2,India,Instagram
+273,2025-07-01 15:08:00,App Install,iOS,14.4,UK,Referral
+273,2025-07-01 15:09:00,Account Registration,iOS,14.4,UK,Referral
+273,2025-07-01 15:10:00,Email/Mobile Verification,iOS,14.4,UK,Referral
+273,2025-07-01 15:11:00,Identity Verification (KYC),iOS,14.4,UK,Referral
+274,2025-07-01 11:44:00,App Install,iOS,15.1,Germany,Referral
+274,2025-07-01 11:45:00,Account Registration,iOS,15.1,Germany,Referral
+274,2025-07-01 11:46:00,Email/Mobile Verification,iOS,15.1,Germany,Referral
+274,2025-07-01 11:47:00,Identity Verification (KYC),iOS,15.1,Germany,Referral
+275,2025-07-01 16:36:00,App Install,Android,13,Brazil,Google Ads
+275,2025-07-01 16:37:00,Account Registration,Android,13,Brazil,Google Ads
+275,2025-07-01 16:38:00,Email/Mobile Verification,Android,13,Brazil,Google Ads
+276,2025-07-01 17:26:00,App Install,iOS,16.2,Germany,Google Ads
+277,2025-07-02 05:59:00,App Install,Android,10,India,Referral
+277,2025-07-02 06:00:00,Account Registration,Android,10,India,Referral
+278,2025-07-01 10:08:00,App Install,Android,10,India,Instagram
+278,2025-07-01 10:09:00,Account Registration,Android,10,India,Instagram
+278,2025-07-01 10:10:00,Email/Mobile Verification,Android,10,India,Instagram
+279,2025-07-02 03:25:00,App Install,Android,13,Germany,Google Ads
+279,2025-07-02 03:26:00,Account Registration,Android,13,Germany,Google Ads
+280,2025-07-02 04:42:00,App Install,iOS,14.4,Brazil,Organic
+280,2025-07-02 04:43:00,Account Registration,iOS,14.4,Brazil,Organic
+281,2025-07-01 23:06:00,App Install,iOS,14.4,Brazil,Google Ads
+282,2025-07-01 10:36:00,App Install,Android,13,Brazil,Referral
+282,2025-07-01 10:37:00,Account Registration,Android,13,Brazil,Referral
+282,2025-07-01 10:38:00,Email/Mobile Verification,Android,13,Brazil,Referral
+282,2025-07-01 10:39:00,Identity Verification (KYC),Android,13,Brazil,Referral
+284,2025-07-01 13:55:00,App Install,iOS,14.4,US,Organic
+284,2025-07-01 13:56:00,Account Registration,iOS,14.4,US,Organic
+284,2025-07-01 13:57:00,Email/Mobile Verification,iOS,14.4,US,Organic
+284,2025-07-01 13:58:00,Identity Verification (KYC),iOS,14.4,US,Organic
+285,2025-07-01 15:56:00,App Install,Android,13,US,Organic
+287,2025-07-01 10:20:00,App Install,iOS,16.2,Brazil,Instagram
+288,2025-07-01 19:20:00,App Install,Android,13,US,Organic
+289,2025-07-02 08:44:00,App Install,Android,10,Germany,Google Ads
+290,2025-07-02 00:54:00,App Install,Android,12,UK,Referral
+290,2025-07-02 00:55:00,Account Registration,Android,12,UK,Referral
+291,2025-07-01 19:55:00,App Install,iOS,15.1,India,Referral
+291,2025-07-01 19:56:00,Account Registration,iOS,15.1,India,Referral
+291,2025-07-01 19:57:00,Email/Mobile Verification,iOS,15.1,India,Referral
+291,2025-07-01 19:58:00,Identity Verification (KYC),iOS,15.1,India,Referral
+292,2025-07-02 04:56:00,App Install,Android,10,UK,Instagram
+292,2025-07-02 04:57:00,Account Registration,Android,10,UK,Instagram
+293,2025-07-01 17:23:00,App Install,iOS,14.4,Germany,Instagram
+293,2025-07-01 17:24:00,Account Registration,iOS,14.4,Germany,Instagram
+293,2025-07-01 17:25:00,Email/Mobile Verification,iOS,14.4,Germany,Instagram
+294,2025-07-01 14:44:00,App Install,iOS,16.2,Germany,Referral
+294,2025-07-01 14:45:00,Account Registration,iOS,16.2,Germany,Referral
+296,2025-07-01 13:41:00,App Install,Android,10,India,Referral
+297,2025-07-02 00:33:00,App Install,Android,10,US,Instagram
+297,2025-07-02 00:34:00,Account Registration,Android,10,US,Instagram
+297,2025-07-02 00:35:00,Email/Mobile Verification,Android,10,US,Instagram
+297,2025-07-02 00:36:00,Identity Verification (KYC),Android,10,US,Instagram
+298,2025-07-02 03:49:00,App Install,iOS,14.4,India,Instagram
+299,2025-07-02 02:08:00,App Install,iOS,16.2,UK,Facebook
+299,2025-07-02 02:09:00,Account Registration,iOS,16.2,UK,Facebook
+299,2025-07-02 02:10:00,Email/Mobile Verification,iOS,16.2,UK,Facebook
+299,2025-07-02 02:11:00,Identity Verification (KYC),iOS,16.2,UK,Facebook
+300,2025-07-02 06:09:00,App Install,Android,11,US,Google Ads
+300,2025-07-02 06:10:00,Account Registration,Android,11,US,Google Ads
+301,2025-07-02 00:40:00,App Install,iOS,14.4,UK,Referral
+301,2025-07-02 00:41:00,Account Registration,iOS,14.4,UK,Referral
+302,2025-07-01 21:56:00,App Install,Android,10,India,Referral
+302,2025-07-01 21:57:00,Account Registration,Android,10,India,Referral
+302,2025-07-01 21:58:00,Email/Mobile Verification,Android,10,India,Referral
+302,2025-07-01 21:59:00,Identity Verification (KYC),Android,10,India,Referral
+303,2025-07-01 12:15:00,App Install,iOS,16.2,UK,Instagram
+303,2025-07-01 12:16:00,Account Registration,iOS,16.2,UK,Instagram
+304,2025-07-02 08:21:00,App Install,iOS,15.1,India,Facebook
+304,2025-07-02 08:22:00,Account Registration,iOS,15.1,India,Facebook
+304,2025-07-02 08:23:00,Email/Mobile Verification,iOS,15.1,India,Facebook
+305,2025-07-01 13:55:00,App Install,iOS,14.4,US,Instagram
+305,2025-07-01 13:56:00,Account Registration,iOS,14.4,US,Instagram
+306,2025-07-01 17:12:00,App Install,Android,12,US,Instagram
+306,2025-07-01 17:13:00,Account Registration,Android,12,US,Instagram
+306,2025-07-01 17:14:00,Email/Mobile Verification,Android,12,US,Instagram
+306,2025-07-01 17:15:00,Identity Verification (KYC),Android,12,US,Instagram
+308,2025-07-02 05:57:00,App Install,Android,10,UK,Instagram
+308,2025-07-02 05:58:00,Account Registration,Android,10,UK,Instagram
+308,2025-07-02 05:59:00,Email/Mobile Verification,Android,10,UK,Instagram
+309,2025-07-01 21:08:00,App Install,iOS,15.1,Germany,Google Ads
+309,2025-07-01 21:09:00,Account Registration,iOS,15.1,Germany,Google Ads
+310,2025-07-01 17:24:00,App Install,iOS,14.4,Brazil,Organic
+311,2025-07-01 19:48:00,App Install,Android,13,US,Referral
+313,2025-07-02 03:56:00,App Install,Android,13,Germany,Instagram
+314,2025-07-02 05:22:00,App Install,Android,12,Brazil,Facebook
+314,2025-07-02 05:23:00,Account Registration,Android,12,Brazil,Facebook
+315,2025-07-02 04:05:00,App Install,iOS,15.1,Germany,Facebook
+315,2025-07-02 04:06:00,Account Registration,iOS,15.1,Germany,Facebook
+315,2025-07-02 04:07:00,Email/Mobile Verification,iOS,15.1,Germany,Facebook
+316,2025-07-01 19:16:00,App Install,iOS,14.4,US,Organic
+317,2025-07-01 19:13:00,App Install,Android,13,UK,Referral
+319,2025-07-01 22:30:00,App Install,Android,11,UK,Facebook
+319,2025-07-01 22:31:00,Account Registration,Android,11,UK,Facebook
+319,2025-07-01 22:32:00,Email/Mobile Verification,Android,11,UK,Facebook
+320,2025-07-01 19:15:00,App Install,iOS,15.1,Brazil,Google Ads
+320,2025-07-01 19:16:00,Account Registration,iOS,15.1,Brazil,Google Ads
+321,2025-07-01 18:56:00,App Install,iOS,14.4,Germany,Organic
+321,2025-07-01 18:57:00,Account Registration,iOS,14.4,Germany,Organic
+321,2025-07-01 18:58:00,Email/Mobile Verification,iOS,14.4,Germany,Organic
+321,2025-07-01 18:59:00,Identity Verification (KYC),iOS,14.4,Germany,Organic
+323,2025-07-01 23:57:00,App Install,Android,10,Germany,Google Ads
+323,2025-07-01 23:58:00,Account Registration,Android,10,Germany,Google Ads
+324,2025-07-02 06:37:00,App Install,iOS,16.2,Germany,Google Ads
+325,2025-07-02 00:19:00,App Install,Android,13,Germany,Facebook
+325,2025-07-02 00:20:00,Account Registration,Android,13,Germany,Facebook
+325,2025-07-02 00:21:00,Email/Mobile Verification,Android,13,Germany,Facebook
+325,2025-07-02 00:22:00,Identity Verification (KYC),Android,13,Germany,Facebook
+325,2025-07-02 00:23:00,Setup PIN / Add Payment Method,Android,13,Germany,Facebook
+326,2025-07-02 06:46:00,App Install,Android,12,Brazil,Instagram
+327,2025-07-01 10:30:00,App Install,Android,12,US,Instagram
+327,2025-07-01 10:31:00,Account Registration,Android,12,US,Instagram
+327,2025-07-01 10:32:00,Email/Mobile Verification,Android,12,US,Instagram
+327,2025-07-01 10:33:00,Identity Verification (KYC),Android,12,US,Instagram
+328,2025-07-01 17:49:00,App Install,iOS,14.4,India,Facebook
+328,2025-07-01 17:50:00,Account Registration,iOS,14.4,India,Facebook
+328,2025-07-01 17:51:00,Email/Mobile Verification,iOS,14.4,India,Facebook
+328,2025-07-01 17:52:00,Identity Verification (KYC),iOS,14.4,India,Facebook
+329,2025-07-02 08:34:00,App Install,iOS,15.1,Germany,Instagram
+329,2025-07-02 08:35:00,Account Registration,iOS,15.1,Germany,Instagram
+330,2025-07-01 12:57:00,App Install,Android,12,Germany,Facebook
+330,2025-07-01 12:58:00,Account Registration,Android,12,Germany,Facebook
+331,2025-07-02 01:29:00,App Install,iOS,15.1,US,Instagram
+332,2025-07-01 10:31:00,App Install,iOS,15.1,India,Organic
+333,2025-07-01 17:19:00,App Install,iOS,16.2,India,Google Ads
+333,2025-07-01 17:20:00,Account Registration,iOS,16.2,India,Google Ads
+335,2025-07-01 15:44:00,App Install,iOS,15.1,India,Instagram
+335,2025-07-01 15:45:00,Account Registration,iOS,15.1,India,Instagram
+338,2025-07-01 22:15:00,App Install,iOS,16.2,UK,Instagram
+338,2025-07-01 22:16:00,Account Registration,iOS,16.2,UK,Instagram
+339,2025-07-02 05:58:00,App Install,iOS,16.2,US,Organic
+339,2025-07-02 05:59:00,Account Registration,iOS,16.2,US,Organic
+340,2025-07-01 21:44:00,App Install,Android,12,India,Google Ads
+340,2025-07-01 21:45:00,Account Registration,Android,12,India,Google Ads
+340,2025-07-01 21:46:00,Email/Mobile Verification,Android,12,India,Google Ads
+341,2025-07-02 06:41:00,App Install,iOS,15.1,US,Referral
+341,2025-07-02 06:42:00,Account Registration,iOS,15.1,US,Referral
+341,2025-07-02 06:43:00,Email/Mobile Verification,iOS,15.1,US,Referral
+342,2025-07-01 15:23:00,App Install,Android,13,UK,Google Ads
+342,2025-07-01 15:24:00,Account Registration,Android,13,UK,Google Ads
+343,2025-07-01 15:39:00,App Install,iOS,14.4,Germany,Google Ads
+343,2025-07-01 15:40:00,Account Registration,iOS,14.4,Germany,Google Ads
+343,2025-07-01 15:41:00,Email/Mobile Verification,iOS,14.4,Germany,Google Ads
+345,2025-07-01 18:22:00,App Install,Android,11,UK,Facebook
+347,2025-07-02 03:30:00,App Install,Android,12,Brazil,Organic
+348,2025-07-01 12:29:00,App Install,iOS,16.2,US,Referral
+348,2025-07-01 12:30:00,Account Registration,iOS,16.2,US,Referral
+349,2025-07-01 11:58:00,App Install,Android,13,UK,Organic
+349,2025-07-01 11:59:00,Account Registration,Android,13,UK,Organic
+349,2025-07-01 12:00:00,Email/Mobile Verification,Android,13,UK,Organic
+350,2025-07-01 14:39:00,App Install,iOS,16.2,Brazil,Referral
+350,2025-07-01 14:40:00,Account Registration,iOS,16.2,Brazil,Referral
+350,2025-07-01 14:41:00,Email/Mobile Verification,iOS,16.2,Brazil,Referral
+350,2025-07-01 14:42:00,Identity Verification (KYC),iOS,16.2,Brazil,Referral
+351,2025-07-01 20:02:00,App Install,iOS,16.2,Brazil,Google Ads
+352,2025-07-01 23:02:00,App Install,iOS,16.2,India,Google Ads
+352,2025-07-01 23:03:00,Account Registration,iOS,16.2,India,Google Ads
+352,2025-07-01 23:04:00,Email/Mobile Verification,iOS,16.2,India,Google Ads
+353,2025-07-01 17:26:00,App Install,Android,11,US,Organic
+353,2025-07-01 17:27:00,Account Registration,Android,11,US,Organic
+353,2025-07-01 17:28:00,Email/Mobile Verification,Android,11,US,Organic
+353,2025-07-01 17:29:00,Identity Verification (KYC),Android,11,US,Organic
+354,2025-07-02 06:37:00,App Install,iOS,15.1,Germany,Facebook
+354,2025-07-02 06:38:00,Account Registration,iOS,15.1,Germany,Facebook
+354,2025-07-02 06:39:00,Email/Mobile Verification,iOS,15.1,Germany,Facebook
+354,2025-07-02 06:40:00,Identity Verification (KYC),iOS,15.1,Germany,Facebook
+354,2025-07-02 06:41:00,Setup PIN / Add Payment Method,iOS,15.1,Germany,Facebook
+354,2025-07-02 06:42:00,Onboarding Complete,iOS,15.1,Germany,Facebook
+355,2025-07-01 09:05:00,App Install,iOS,15.1,UK,Instagram
+355,2025-07-01 09:06:00,Account Registration,iOS,15.1,UK,Instagram
+356,2025-07-02 03:14:00,App Install,iOS,16.2,UK,Facebook
+356,2025-07-02 03:15:00,Account Registration,iOS,16.2,UK,Facebook
+356,2025-07-02 03:16:00,Email/Mobile Verification,iOS,16.2,UK,Facebook
+358,2025-07-01 12:23:00,App Install,iOS,15.1,India,Facebook
+358,2025-07-01 12:24:00,Account Registration,iOS,15.1,India,Facebook
+359,2025-07-01 23:36:00,App Install,Android,13,Germany,Facebook
+359,2025-07-01 23:37:00,Account Registration,Android,13,Germany,Facebook
+360,2025-07-02 07:20:00,App Install,iOS,14.4,UK,Facebook
+361,2025-07-02 08:52:00,App Install,Android,10,Germany,Organic
+361,2025-07-02 08:53:00,Account Registration,Android,10,Germany,Organic
+363,2025-07-02 08:44:00,App Install,Android,13,India,Facebook
+364,2025-07-01 11:25:00,App Install,iOS,16.2,US,Referral
+367,2025-07-02 06:26:00,App Install,Android,13,UK,Google Ads
+367,2025-07-02 06:27:00,Account Registration,Android,13,UK,Google Ads
+367,2025-07-02 06:28:00,Email/Mobile Verification,Android,13,UK,Google Ads
+368,2025-07-01 13:12:00,App Install,Android,10,India,Google Ads
+368,2025-07-01 13:13:00,Account Registration,Android,10,India,Google Ads
+368,2025-07-01 13:14:00,Email/Mobile Verification,Android,10,India,Google Ads
+369,2025-07-01 17:28:00,App Install,Android,11,UK,Facebook
+369,2025-07-01 17:29:00,Account Registration,Android,11,UK,Facebook
+369,2025-07-01 17:30:00,Email/Mobile Verification,Android,11,UK,Facebook
+369,2025-07-01 17:31:00,Identity Verification (KYC),Android,11,UK,Facebook
+369,2025-07-01 17:32:00,Setup PIN / Add Payment Method,Android,11,UK,Facebook
+369,2025-07-01 17:33:00,Onboarding Complete,Android,11,UK,Facebook
+371,2025-07-02 01:53:00,App Install,iOS,15.1,India,Google Ads
+372,2025-07-01 13:30:00,App Install,Android,10,UK,Organic
+372,2025-07-01 13:31:00,Account Registration,Android,10,UK,Organic
+372,2025-07-01 13:32:00,Email/Mobile Verification,Android,10,UK,Organic
+372,2025-07-01 13:33:00,Identity Verification (KYC),Android,10,UK,Organic
+374,2025-07-02 02:17:00,App Install,Android,10,India,Referral
+374,2025-07-02 02:18:00,Account Registration,Android,10,India,Referral
+374,2025-07-02 02:19:00,Email/Mobile Verification,Android,10,India,Referral
+376,2025-07-01 15:56:00,App Install,Android,12,India,Instagram
+377,2025-07-01 19:35:00,App Install,iOS,15.1,Brazil,Facebook
+377,2025-07-01 19:36:00,Account Registration,iOS,15.1,Brazil,Facebook
+377,2025-07-01 19:37:00,Email/Mobile Verification,iOS,15.1,Brazil,Facebook
+378,2025-07-02 05:53:00,App Install,Android,13,India,Referral
+378,2025-07-02 05:54:00,Account Registration,Android,13,India,Referral
+378,2025-07-02 05:55:00,Email/Mobile Verification,Android,13,India,Referral
+378,2025-07-02 05:56:00,Identity Verification (KYC),Android,13,India,Referral
+379,2025-07-01 20:50:00,App Install,Android,10,US,Referral
+379,2025-07-01 20:51:00,Account Registration,Android,10,US,Referral
+379,2025-07-01 20:52:00,Email/Mobile Verification,Android,10,US,Referral
+380,2025-07-01 20:26:00,App Install,Android,12,India,Facebook
+381,2025-07-02 01:56:00,App Install,Android,12,Brazil,Facebook
+381,2025-07-02 01:57:00,Account Registration,Android,12,Brazil,Facebook
+381,2025-07-02 01:58:00,Email/Mobile Verification,Android,12,Brazil,Facebook
+381,2025-07-02 01:59:00,Identity Verification (KYC),Android,12,Brazil,Facebook
+382,2025-07-01 16:47:00,App Install,iOS,14.4,Brazil,Facebook
+383,2025-07-01 21:25:00,App Install,Android,11,India,Referral
+384,2025-07-01 17:28:00,App Install,Android,13,US,Organic
+384,2025-07-01 17:29:00,Account Registration,Android,13,US,Organic
+385,2025-07-02 07:58:00,App Install,Android,12,India,Instagram
+386,2025-07-01 18:38:00,App Install,Android,13,India,Referral
+386,2025-07-01 18:39:00,Account Registration,Android,13,India,Referral
+387,2025-07-01 18:57:00,App Install,iOS,14.4,UK,Google Ads
+387,2025-07-01 18:58:00,Account Registration,iOS,14.4,UK,Google Ads
+387,2025-07-01 18:59:00,Email/Mobile Verification,iOS,14.4,UK,Google Ads
+389,2025-07-01 20:49:00,App Install,iOS,14.4,US,Instagram
+389,2025-07-01 20:50:00,Account Registration,iOS,14.4,US,Instagram
+390,2025-07-01 12:32:00,App Install,iOS,14.4,Germany,Organic
+390,2025-07-01 12:33:00,Account Registration,iOS,14.4,Germany,Organic
+390,2025-07-01 12:34:00,Email/Mobile Verification,iOS,14.4,Germany,Organic
+390,2025-07-01 12:35:00,Identity Verification (KYC),iOS,14.4,Germany,Organic
+390,2025-07-01 12:36:00,Setup PIN / Add Payment Method,iOS,14.4,Germany,Organic
+391,2025-07-02 02:44:00,App Install,iOS,14.4,India,Google Ads
+391,2025-07-02 02:45:00,Account Registration,iOS,14.4,India,Google Ads
+391,2025-07-02 02:46:00,Email/Mobile Verification,iOS,14.4,India,Google Ads
+391,2025-07-02 02:47:00,Identity Verification (KYC),iOS,14.4,India,Google Ads
+393,2025-07-01 19:45:00,App Install,Android,11,UK,Organic
+393,2025-07-01 19:46:00,Account Registration,Android,11,UK,Organic
+393,2025-07-01 19:47:00,Email/Mobile Verification,Android,11,UK,Organic
+395,2025-07-02 00:20:00,App Install,Android,11,India,Google Ads
+395,2025-07-02 00:21:00,Account Registration,Android,11,India,Google Ads
+395,2025-07-02 00:22:00,Email/Mobile Verification,Android,11,India,Google Ads
+395,2025-07-02 00:23:00,Identity Verification (KYC),Android,11,India,Google Ads
+397,2025-07-01 16:20:00,App Install,iOS,16.2,Brazil,Facebook
+397,2025-07-01 16:21:00,Account Registration,iOS,16.2,Brazil,Facebook
+398,2025-07-01 10:40:00,App Install,Android,12,Germany,Instagram
+399,2025-07-02 03:58:00,App Install,Android,10,Germany,Referral
+401,2025-07-01 21:42:00,App Install,Android,11,US,Referral
+401,2025-07-01 21:43:00,Account Registration,Android,11,US,Referral
+402,2025-07-01 15:44:00,App Install,iOS,14.4,India,Facebook
+402,2025-07-01 15:45:00,Account Registration,iOS,14.4,India,Facebook
+404,2025-07-01 10:00:00,App Install,iOS,16.2,Germany,Referral
+404,2025-07-01 10:01:00,Account Registration,iOS,16.2,Germany,Referral
+406,2025-07-02 03:47:00,App Install,Android,12,Germany,Referral
+407,2025-07-02 06:56:00,App Install,iOS,14.4,Germany,Google Ads
+407,2025-07-02 06:57:00,Account Registration,iOS,14.4,Germany,Google Ads
+407,2025-07-02 06:58:00,Email/Mobile Verification,iOS,14.4,Germany,Google Ads
+407,2025-07-02 06:59:00,Identity Verification (KYC),iOS,14.4,Germany,Google Ads
+407,2025-07-02 07:00:00,Setup PIN / Add Payment Method,iOS,14.4,Germany,Google Ads
+407,2025-07-02 07:01:00,Onboarding Complete,iOS,14.4,Germany,Google Ads
+408,2025-07-01 20:44:00,App Install,iOS,15.1,Brazil,Referral
+408,2025-07-01 20:45:00,Account Registration,iOS,15.1,Brazil,Referral
+410,2025-07-01 21:12:00,App Install,iOS,14.4,Germany,Instagram
+410,2025-07-01 21:13:00,Account Registration,iOS,14.4,Germany,Instagram
+410,2025-07-01 21:14:00,Email/Mobile Verification,iOS,14.4,Germany,Instagram
+411,2025-07-01 16:29:00,App Install,Android,12,Brazil,Facebook
+411,2025-07-01 16:30:00,Account Registration,Android,12,Brazil,Facebook
+412,2025-07-01 19:51:00,App Install,Android,11,US,Instagram
+412,2025-07-01 19:52:00,Account Registration,Android,11,US,Instagram
+412,2025-07-01 19:53:00,Email/Mobile Verification,Android,11,US,Instagram
+413,2025-07-02 04:13:00,App Install,iOS,16.2,Brazil,Google Ads
+413,2025-07-02 04:14:00,Account Registration,iOS,16.2,Brazil,Google Ads
+413,2025-07-02 04:15:00,Email/Mobile Verification,iOS,16.2,Brazil,Google Ads
+413,2025-07-02 04:16:00,Identity Verification (KYC),iOS,16.2,Brazil,Google Ads
+414,2025-07-01 10:55:00,App Install,Android,13,India,Facebook
+415,2025-07-01 15:52:00,App Install,iOS,14.4,UK,Instagram
+415,2025-07-01 15:53:00,Account Registration,iOS,14.4,UK,Instagram
+416,2025-07-02 05:01:00,App Install,iOS,14.4,India,Google Ads
+417,2025-07-02 07:36:00,App Install,Android,12,India,Organic
+418,2025-07-01 23:54:00,App Install,iOS,15.1,US,Google Ads
+418,2025-07-01 23:55:00,Account Registration,iOS,15.1,US,Google Ads
+418,2025-07-01 23:56:00,Email/Mobile Verification,iOS,15.1,US,Google Ads
+419,2025-07-01 21:54:00,App Install,iOS,14.4,Brazil,Google Ads
+419,2025-07-01 21:55:00,Account Registration,iOS,14.4,Brazil,Google Ads
+420,2025-07-01 15:12:00,App Install,Android,13,Brazil,Facebook
+420,2025-07-01 15:13:00,Account Registration,Android,13,Brazil,Facebook
+420,2025-07-01 15:14:00,Email/Mobile Verification,Android,13,Brazil,Facebook
+421,2025-07-01 11:39:00,App Install,Android,13,US,Organic
+421,2025-07-01 11:40:00,Account Registration,Android,13,US,Organic
+422,2025-07-01 18:03:00,App Install,Android,12,Germany,Facebook
+422,2025-07-01 18:04:00,Account Registration,Android,12,Germany,Facebook
+423,2025-07-01 23:57:00,App Install,Android,10,India,Referral
+423,2025-07-01 23:58:00,Account Registration,Android,10,India,Referral
+423,2025-07-01 23:59:00,Email/Mobile Verification,Android,10,India,Referral
+424,2025-07-01 12:27:00,App Install,iOS,15.1,Brazil,Referral
+424,2025-07-01 12:28:00,Account Registration,iOS,15.1,Brazil,Referral
+424,2025-07-01 12:29:00,Email/Mobile Verification,iOS,15.1,Brazil,Referral
+424,2025-07-01 12:30:00,Identity Verification (KYC),iOS,15.1,Brazil,Referral
+425,2025-07-01 09:41:00,App Install,iOS,14.4,India,Organic
+425,2025-07-01 09:42:00,Account Registration,iOS,14.4,India,Organic
+426,2025-07-02 03:40:00,App Install,Android,13,US,Facebook
+426,2025-07-02 03:41:00,Account Registration,Android,13,US,Facebook
+428,2025-07-01 20:18:00,App Install,iOS,14.4,India,Facebook
+431,2025-07-02 07:35:00,App Install,Android,13,India,Organic
+431,2025-07-02 07:36:00,Account Registration,Android,13,India,Organic
+432,2025-07-02 01:09:00,App Install,Android,11,UK,Facebook
+432,2025-07-02 01:10:00,Account Registration,Android,11,UK,Facebook
+433,2025-07-02 06:54:00,App Install,iOS,16.2,UK,Facebook
+434,2025-07-01 10:31:00,App Install,iOS,15.1,US,Referral
+434,2025-07-01 10:32:00,Account Registration,iOS,15.1,US,Referral
+435,2025-07-02 08:46:00,App Install,iOS,16.2,India,Google Ads
+436,2025-07-01 16:45:00,App Install,iOS,16.2,Germany,Instagram
+436,2025-07-01 16:46:00,Account Registration,iOS,16.2,Germany,Instagram
+436,2025-07-01 16:47:00,Email/Mobile Verification,iOS,16.2,Germany,Instagram
+438,2025-07-01 14:54:00,App Install,Android,11,India,Referral
+440,2025-07-01 17:48:00,App Install,iOS,14.4,US,Instagram
+440,2025-07-01 17:49:00,Account Registration,iOS,14.4,US,Instagram
+440,2025-07-01 17:50:00,Email/Mobile Verification,iOS,14.4,US,Instagram
+441,2025-07-02 02:44:00,App Install,iOS,16.2,UK,Organic
+441,2025-07-02 02:45:00,Account Registration,iOS,16.2,UK,Organic
+441,2025-07-02 02:46:00,Email/Mobile Verification,iOS,16.2,UK,Organic
+441,2025-07-02 02:47:00,Identity Verification (KYC),iOS,16.2,UK,Organic
+442,2025-07-01 14:03:00,App Install,iOS,14.4,Germany,Google Ads
+442,2025-07-01 14:04:00,Account Registration,iOS,14.4,Germany,Google Ads
+442,2025-07-01 14:05:00,Email/Mobile Verification,iOS,14.4,Germany,Google Ads
+443,2025-07-01 20:44:00,App Install,Android,10,UK,Instagram
+445,2025-07-02 08:14:00,App Install,iOS,14.4,Brazil,Instagram
+446,2025-07-02 01:13:00,App Install,iOS,16.2,US,Facebook
+446,2025-07-02 01:14:00,Account Registration,iOS,16.2,US,Facebook
+447,2025-07-02 08:45:00,App Install,iOS,15.1,UK,Referral
+447,2025-07-02 08:46:00,Account Registration,iOS,15.1,UK,Referral
+448,2025-07-01 18:11:00,App Install,iOS,16.2,Germany,Organic
+448,2025-07-01 18:12:00,Account Registration,iOS,16.2,Germany,Organic
+449,2025-07-02 02:37:00,App Install,iOS,14.4,Germany,Referral
+449,2025-07-02 02:38:00,Account Registration,iOS,14.4,Germany,Referral
+449,2025-07-02 02:39:00,Email/Mobile Verification,iOS,14.4,Germany,Referral
+450,2025-07-01 13:37:00,App Install,iOS,16.2,Brazil,Referral
+450,2025-07-01 13:38:00,Account Registration,iOS,16.2,Brazil,Referral
+450,2025-07-01 13:39:00,Email/Mobile Verification,iOS,16.2,Brazil,Referral
+452,2025-07-01 21:34:00,App Install,iOS,16.2,US,Organic
+452,2025-07-01 21:35:00,Account Registration,iOS,16.2,US,Organic
+452,2025-07-01 21:36:00,Email/Mobile Verification,iOS,16.2,US,Organic
+453,2025-07-02 05:16:00,App Install,Android,11,UK,Referral
+453,2025-07-02 05:17:00,Account Registration,Android,11,UK,Referral
+453,2025-07-02 05:18:00,Email/Mobile Verification,Android,11,UK,Referral
+453,2025-07-02 05:19:00,Identity Verification (KYC),Android,11,UK,Referral
+454,2025-07-01 09:56:00,App Install,iOS,16.2,India,Organic
+455,2025-07-01 18:11:00,App Install,Android,11,US,Google Ads
+455,2025-07-01 18:12:00,Account Registration,Android,11,US,Google Ads
+455,2025-07-01 18:13:00,Email/Mobile Verification,Android,11,US,Google Ads
+455,2025-07-01 18:14:00,Identity Verification (KYC),Android,11,US,Google Ads
+455,2025-07-01 18:15:00,Setup PIN / Add Payment Method,Android,11,US,Google Ads
+456,2025-07-01 16:38:00,App Install,Android,11,Brazil,Facebook
+456,2025-07-01 16:39:00,Account Registration,Android,11,Brazil,Facebook
+457,2025-07-02 00:40:00,App Install,iOS,15.1,Germany,Organic
+457,2025-07-02 00:41:00,Account Registration,iOS,15.1,Germany,Organic
+457,2025-07-02 00:42:00,Email/Mobile Verification,iOS,15.1,Germany,Organic
+457,2025-07-02 00:43:00,Identity Verification (KYC),iOS,15.1,Germany,Organic
+458,2025-07-02 04:09:00,App Install,Android,10,Brazil,Organic
+458,2025-07-02 04:10:00,Account Registration,Android,10,Brazil,Organic
+459,2025-07-01 18:26:00,App Install,Android,13,India,Organic
+459,2025-07-01 18:27:00,Account Registration,Android,13,India,Organic
+460,2025-07-01 17:12:00,App Install,iOS,14.4,US,Instagram
+460,2025-07-01 17:13:00,Account Registration,iOS,14.4,US,Instagram
+460,2025-07-01 17:14:00,Email/Mobile Verification,iOS,14.4,US,Instagram
+460,2025-07-01 17:15:00,Identity Verification (KYC),iOS,14.4,US,Instagram
+460,2025-07-01 17:16:00,Setup PIN / Add Payment Method,iOS,14.4,US,Instagram
+461,2025-07-01 23:17:00,App Install,Android,13,UK,Organic
+461,2025-07-01 23:18:00,Account Registration,Android,13,UK,Organic
+461,2025-07-01 23:19:00,Email/Mobile Verification,Android,13,UK,Organic
+461,2025-07-01 23:20:00,Identity Verification (KYC),Android,13,UK,Organic
+461,2025-07-01 23:21:00,Setup PIN / Add Payment Method,Android,13,UK,Organic
+462,2025-07-01 19:14:00,App Install,Android,13,UK,Instagram
+462,2025-07-01 19:15:00,Account Registration,Android,13,UK,Instagram
+462,2025-07-01 19:16:00,Email/Mobile Verification,Android,13,UK,Instagram
+463,2025-07-02 04:04:00,App Install,Android,13,US,Organic
+464,2025-07-01 21:07:00,App Install,iOS,16.2,India,Google Ads
+464,2025-07-01 21:08:00,Account Registration,iOS,16.2,India,Google Ads
+464,2025-07-01 21:09:00,Email/Mobile Verification,iOS,16.2,India,Google Ads
+464,2025-07-01 21:10:00,Identity Verification (KYC),iOS,16.2,India,Google Ads
+465,2025-07-01 10:49:00,App Install,iOS,15.1,India,Referral
+465,2025-07-01 10:50:00,Account Registration,iOS,15.1,India,Referral
+465,2025-07-01 10:51:00,Email/Mobile Verification,iOS,15.1,India,Referral
+466,2025-07-01 19:11:00,App Install,Android,10,Germany,Instagram
+466,2025-07-01 19:12:00,Account Registration,Android,10,Germany,Instagram
+468,2025-07-02 06:32:00,App Install,Android,10,Germany,Organic
+468,2025-07-02 06:33:00,Account Registration,Android,10,Germany,Organic
+469,2025-07-02 04:40:00,App Install,iOS,15.1,US,Google Ads
+469,2025-07-02 04:41:00,Account Registration,iOS,15.1,US,Google Ads
+469,2025-07-02 04:42:00,Email/Mobile Verification,iOS,15.1,US,Google Ads
+470,2025-07-01 23:38:00,App Install,iOS,16.2,Germany,Referral
+470,2025-07-01 23:39:00,Account Registration,iOS,16.2,Germany,Referral
+474,2025-07-02 02:45:00,App Install,Android,12,UK,Referral
+474,2025-07-02 02:46:00,Account Registration,Android,12,UK,Referral
+474,2025-07-02 02:47:00,Email/Mobile Verification,Android,12,UK,Referral
+474,2025-07-02 02:48:00,Identity Verification (KYC),Android,12,UK,Referral
+476,2025-07-02 05:07:00,App Install,Android,11,US,Facebook
+479,2025-07-01 17:37:00,App Install,iOS,15.1,India,Instagram
+480,2025-07-02 07:36:00,App Install,Android,12,Germany,Facebook
+480,2025-07-02 07:37:00,Account Registration,Android,12,Germany,Facebook
+480,2025-07-02 07:38:00,Email/Mobile Verification,Android,12,Germany,Facebook
+481,2025-07-01 12:37:00,App Install,Android,10,UK,Facebook
+481,2025-07-01 12:38:00,Account Registration,Android,10,UK,Facebook
+481,2025-07-01 12:39:00,Email/Mobile Verification,Android,10,UK,Facebook
+481,2025-07-01 12:40:00,Identity Verification (KYC),Android,10,UK,Facebook
+481,2025-07-01 12:41:00,Setup PIN / Add Payment Method,Android,10,UK,Facebook
+482,2025-07-02 03:42:00,App Install,iOS,15.1,US,Facebook
+483,2025-07-01 09:26:00,App Install,iOS,15.1,US,Facebook
+483,2025-07-01 09:27:00,Account Registration,iOS,15.1,US,Facebook
+483,2025-07-01 09:28:00,Email/Mobile Verification,iOS,15.1,US,Facebook
+483,2025-07-01 09:29:00,Identity Verification (KYC),iOS,15.1,US,Facebook
+484,2025-07-02 06:59:00,App Install,Android,10,India,Organic
+484,2025-07-02 07:00:00,Account Registration,Android,10,India,Organic
+485,2025-07-01 10:20:00,App Install,iOS,14.4,India,Google Ads
+485,2025-07-01 10:21:00,Account Registration,iOS,14.4,India,Google Ads
+485,2025-07-01 10:22:00,Email/Mobile Verification,iOS,14.4,India,Google Ads
+486,2025-07-01 13:43:00,App Install,Android,10,India,Facebook
+487,2025-07-01 12:10:00,App Install,iOS,15.1,Brazil,Organic
+487,2025-07-01 12:11:00,Account Registration,iOS,15.1,Brazil,Organic
+488,2025-07-02 08:32:00,App Install,iOS,15.1,UK,Referral
+488,2025-07-02 08:33:00,Account Registration,iOS,15.1,UK,Referral
+488,2025-07-02 08:34:00,Email/Mobile Verification,iOS,15.1,UK,Referral
+488,2025-07-02 08:35:00,Identity Verification (KYC),iOS,15.1,UK,Referral
+489,2025-07-02 05:09:00,App Install,Android,11,India,Referral
+489,2025-07-02 05:10:00,Account Registration,Android,11,India,Referral
+489,2025-07-02 05:11:00,Email/Mobile Verification,Android,11,India,Referral
+489,2025-07-02 05:12:00,Identity Verification (KYC),Android,11,India,Referral
+489,2025-07-02 05:13:00,Setup PIN / Add Payment Method,Android,11,India,Referral
+490,2025-07-01 23:02:00,App Install,Android,13,Germany,Facebook
+491,2025-07-02 04:17:00,App Install,iOS,14.4,Brazil,Instagram
+491,2025-07-02 04:18:00,Account Registration,iOS,14.4,Brazil,Instagram
+491,2025-07-02 04:19:00,Email/Mobile Verification,iOS,14.4,Brazil,Instagram
+491,2025-07-02 04:20:00,Identity Verification (KYC),iOS,14.4,Brazil,Instagram
+491,2025-07-02 04:21:00,Setup PIN / Add Payment Method,iOS,14.4,Brazil,Instagram
+492,2025-07-01 20:48:00,App Install,iOS,16.2,US,Referral
+492,2025-07-01 20:49:00,Account Registration,iOS,16.2,US,Referral
+493,2025-07-02 01:01:00,App Install,Android,10,US,Instagram
+493,2025-07-02 01:02:00,Account Registration,Android,10,US,Instagram
+495,2025-07-01 11:41:00,App Install,Android,13,Germany,Google Ads
+495,2025-07-01 11:42:00,Account Registration,Android,13,Germany,Google Ads
+495,2025-07-01 11:43:00,Email/Mobile Verification,Android,13,Germany,Google Ads
+495,2025-07-01 11:44:00,Identity Verification (KYC),Android,13,Germany,Google Ads
+496,2025-07-01 22:46:00,App Install,Android,13,India,Facebook
+496,2025-07-01 22:47:00,Account Registration,Android,13,India,Facebook
+497,2025-07-01 16:03:00,App Install,Android,12,Brazil,Instagram
+497,2025-07-01 16:04:00,Account Registration,Android,12,Brazil,Instagram
+498,2025-07-02 04:07:00,App Install,Android,11,Germany,Organic
+498,2025-07-02 04:08:00,Account Registration,Android,11,Germany,Organic
+498,2025-07-02 04:09:00,Email/Mobile Verification,Android,11,Germany,Organic
+499,2025-07-01 09:04:00,App Install,iOS,14.4,India,Google Ads
+499,2025-07-01 09:05:00,Account Registration,iOS,14.4,India,Google Ads
+499,2025-07-01 09:06:00,Email/Mobile Verification,iOS,14.4,India,Google Ads
+500,2025-07-01 14:36:00,App Install,iOS,16.2,India,Facebook
+500,2025-07-01 14:37:00,Account Registration,iOS,16.2,India,Facebook
+500,2025-07-01 14:38:00,Email/Mobile Verification,iOS,16.2,India,Facebook
+501,2025-07-01 13:07:00,App Install,iOS,16.2,US,Google Ads
+501,2025-07-01 13:08:00,Account Registration,iOS,16.2,US,Google Ads
+501,2025-07-01 13:09:00,Email/Mobile Verification,iOS,16.2,US,Google Ads
+501,2025-07-01 13:10:00,Identity Verification (KYC),iOS,16.2,US,Google Ads
+501,2025-07-01 13:11:00,Setup PIN / Add Payment Method,iOS,16.2,US,Google Ads
+502,2025-07-02 00:22:00,App Install,iOS,14.4,Brazil,Facebook
+502,2025-07-02 00:23:00,Account Registration,iOS,14.4,Brazil,Facebook
+502,2025-07-02 00:24:00,Email/Mobile Verification,iOS,14.4,Brazil,Facebook
+502,2025-07-02 00:25:00,Identity Verification (KYC),iOS,14.4,Brazil,Facebook
+503,2025-07-02 02:21:00,App Install,Android,13,Brazil,Referral
+503,2025-07-02 02:22:00,Account Registration,Android,13,Brazil,Referral
+503,2025-07-02 02:23:00,Email/Mobile Verification,Android,13,Brazil,Referral
+504,2025-07-02 05:41:00,App Install,Android,10,Germany,Instagram
+504,2025-07-02 05:42:00,Account Registration,Android,10,Germany,Instagram
+505,2025-07-01 19:02:00,App Install,Android,12,Germany,Organic
+506,2025-07-02 08:56:00,App Install,iOS,16.2,Brazil,Organic
+506,2025-07-02 08:57:00,Account Registration,iOS,16.2,Brazil,Organic
+506,2025-07-02 08:58:00,Email/Mobile Verification,iOS,16.2,Brazil,Organic
+506,2025-07-02 08:59:00,Identity Verification (KYC),iOS,16.2,Brazil,Organic
+507,2025-07-02 07:11:00,App Install,Android,12,UK,Google Ads
+508,2025-07-02 04:11:00,App Install,iOS,16.2,India,Organic
+508,2025-07-02 04:12:00,Account Registration,iOS,16.2,India,Organic
+508,2025-07-02 04:13:00,Email/Mobile Verification,iOS,16.2,India,Organic
+510,2025-07-01 18:06:00,App Install,Android,10,India,Google Ads
+511,2025-07-01 11:07:00,App Install,iOS,16.2,UK,Google Ads
+512,2025-07-02 06:01:00,App Install,Android,12,Germany,Facebook
+512,2025-07-02 06:02:00,Account Registration,Android,12,Germany,Facebook
+512,2025-07-02 06:03:00,Email/Mobile Verification,Android,12,Germany,Facebook
+512,2025-07-02 06:04:00,Identity Verification (KYC),Android,12,Germany,Facebook
+513,2025-07-01 22:13:00,App Install,Android,12,India,Referral
+513,2025-07-01 22:14:00,Account Registration,Android,12,India,Referral
+513,2025-07-01 22:15:00,Email/Mobile Verification,Android,12,India,Referral
+513,2025-07-01 22:16:00,Identity Verification (KYC),Android,12,India,Referral
+514,2025-07-01 16:41:00,App Install,iOS,14.4,Brazil,Referral
+514,2025-07-01 16:42:00,Account Registration,iOS,14.4,Brazil,Referral
+514,2025-07-01 16:43:00,Email/Mobile Verification,iOS,14.4,Brazil,Referral
+514,2025-07-01 16:44:00,Identity Verification (KYC),iOS,14.4,Brazil,Referral
+515,2025-07-01 15:03:00,App Install,Android,11,UK,Referral
+516,2025-07-01 23:37:00,App Install,Android,10,Germany,Facebook
+517,2025-07-02 00:55:00,App Install,Android,12,India,Organic
+518,2025-07-02 06:20:00,App Install,Android,12,Brazil,Facebook
+518,2025-07-02 06:21:00,Account Registration,Android,12,Brazil,Facebook
+518,2025-07-02 06:22:00,Email/Mobile Verification,Android,12,Brazil,Facebook
+518,2025-07-02 06:23:00,Identity Verification (KYC),Android,12,Brazil,Facebook
+521,2025-07-01 21:18:00,App Install,Android,11,UK,Organic
+521,2025-07-01 21:19:00,Account Registration,Android,11,UK,Organic
+521,2025-07-01 21:20:00,Email/Mobile Verification,Android,11,UK,Organic
+522,2025-07-01 17:12:00,App Install,Android,10,UK,Referral
+522,2025-07-01 17:13:00,Account Registration,Android,10,UK,Referral
+522,2025-07-01 17:14:00,Email/Mobile Verification,Android,10,UK,Referral
+522,2025-07-01 17:15:00,Identity Verification (KYC),Android,10,UK,Referral
+522,2025-07-01 17:16:00,Setup PIN / Add Payment Method,Android,10,UK,Referral
+526,2025-07-02 08:23:00,App Install,Android,10,US,Google Ads
+527,2025-07-01 09:48:00,App Install,iOS,16.2,India,Google Ads
+527,2025-07-01 09:49:00,Account Registration,iOS,16.2,India,Google Ads
+528,2025-07-01 11:24:00,App Install,Android,11,UK,Instagram
+529,2025-07-02 06:30:00,App Install,iOS,15.1,Germany,Referral
+529,2025-07-02 06:31:00,Account Registration,iOS,15.1,Germany,Referral
+531,2025-07-01 18:53:00,App Install,Android,12,Brazil,Facebook
+531,2025-07-01 18:54:00,Account Registration,Android,12,Brazil,Facebook
+533,2025-07-01 19:04:00,App Install,Android,11,Germany,Instagram
+535,2025-07-01 11:54:00,App Install,Android,13,Brazil,Instagram
+535,2025-07-01 11:55:00,Account Registration,Android,13,Brazil,Instagram
+535,2025-07-01 11:56:00,Email/Mobile Verification,Android,13,Brazil,Instagram
+537,2025-07-02 07:54:00,App Install,iOS,14.4,India,Google Ads
+537,2025-07-02 07:55:00,Account Registration,iOS,14.4,India,Google Ads
+537,2025-07-02 07:56:00,Email/Mobile Verification,iOS,14.4,India,Google Ads
+537,2025-07-02 07:57:00,Identity Verification (KYC),iOS,14.4,India,Google Ads
+537,2025-07-02 07:58:00,Setup PIN / Add Payment Method,iOS,14.4,India,Google Ads
+539,2025-07-02 07:54:00,App Install,iOS,15.1,UK,Google Ads
+540,2025-07-02 00:22:00,App Install,Android,11,UK,Referral
+540,2025-07-02 00:23:00,Account Registration,Android,11,UK,Referral
+540,2025-07-02 00:24:00,Email/Mobile Verification,Android,11,UK,Referral
+541,2025-07-01 09:09:00,App Install,iOS,15.1,Germany,Google Ads
+541,2025-07-01 09:10:00,Account Registration,iOS,15.1,Germany,Google Ads
+541,2025-07-01 09:11:00,Email/Mobile Verification,iOS,15.1,Germany,Google Ads
+541,2025-07-01 09:12:00,Identity Verification (KYC),iOS,15.1,Germany,Google Ads
+542,2025-07-02 00:47:00,App Install,iOS,14.4,UK,Referral
+542,2025-07-02 00:48:00,Account Registration,iOS,14.4,UK,Referral
+542,2025-07-02 00:49:00,Email/Mobile Verification,iOS,14.4,UK,Referral
+543,2025-07-01 15:42:00,App Install,Android,12,US,Instagram
+543,2025-07-01 15:43:00,Account Registration,Android,12,US,Instagram
+544,2025-07-02 04:51:00,App Install,Android,10,Brazil,Facebook
+544,2025-07-02 04:52:00,Account Registration,Android,10,Brazil,Facebook
+545,2025-07-02 01:06:00,App Install,Android,12,Brazil,Instagram
+546,2025-07-01 13:34:00,App Install,iOS,14.4,Brazil,Organic
+546,2025-07-01 13:35:00,Account Registration,iOS,14.4,Brazil,Organic
+548,2025-07-02 07:30:00,App Install,Android,11,Brazil,Instagram
+549,2025-07-02 01:38:00,App Install,iOS,15.1,India,Google Ads
+550,2025-07-01 21:19:00,App Install,Android,10,US,Instagram
+550,2025-07-01 21:20:00,Account Registration,Android,10,US,Instagram
+550,2025-07-01 21:21:00,Email/Mobile Verification,Android,10,US,Instagram
+551,2025-07-01 17:59:00,App Install,iOS,14.4,Brazil,Organic
+551,2025-07-01 18:00:00,Account Registration,iOS,14.4,Brazil,Organic
+552,2025-07-02 02:38:00,App Install,iOS,15.1,Brazil,Facebook
+552,2025-07-02 02:39:00,Account Registration,iOS,15.1,Brazil,Facebook
+553,2025-07-02 01:27:00,App Install,iOS,15.1,UK,Referral
+554,2025-07-01 11:37:00,App Install,Android,13,US,Google Ads
+555,2025-07-02 05:32:00,App Install,Android,11,US,Organic
+556,2025-07-02 01:26:00,App Install,Android,13,UK,Facebook
+556,2025-07-02 01:27:00,Account Registration,Android,13,UK,Facebook
+556,2025-07-02 01:28:00,Email/Mobile Verification,Android,13,UK,Facebook
+556,2025-07-02 01:29:00,Identity Verification (KYC),Android,13,UK,Facebook
+558,2025-07-01 17:48:00,App Install,Android,11,India,Google Ads
+558,2025-07-01 17:49:00,Account Registration,Android,11,India,Google Ads
+558,2025-07-01 17:50:00,Email/Mobile Verification,Android,11,India,Google Ads
+558,2025-07-01 17:51:00,Identity Verification (KYC),Android,11,India,Google Ads
+558,2025-07-01 17:52:00,Setup PIN / Add Payment Method,Android,11,India,Google Ads
+558,2025-07-01 17:53:00,Onboarding Complete,Android,11,India,Google Ads
+559,2025-07-02 05:42:00,App Install,iOS,14.4,US,Referral
+559,2025-07-02 05:43:00,Account Registration,iOS,14.4,US,Referral
+560,2025-07-01 15:12:00,App Install,iOS,16.2,US,Instagram
+560,2025-07-01 15:13:00,Account Registration,iOS,16.2,US,Instagram
+561,2025-07-01 11:20:00,App Install,iOS,15.1,Brazil,Instagram
+561,2025-07-01 11:21:00,Account Registration,iOS,15.1,Brazil,Instagram
+564,2025-07-01 21:38:00,App Install,Android,13,Brazil,Referral
+564,2025-07-01 21:39:00,Account Registration,Android,13,Brazil,Referral
+564,2025-07-01 21:40:00,Email/Mobile Verification,Android,13,Brazil,Referral
+564,2025-07-01 21:41:00,Identity Verification (KYC),Android,13,Brazil,Referral
+565,2025-07-01 12:20:00,App Install,iOS,15.1,Brazil,Instagram
+566,2025-07-02 03:33:00,App Install,Android,10,UK,Instagram
+567,2025-07-01 21:48:00,App Install,Android,10,Brazil,Facebook
+567,2025-07-01 21:49:00,Account Registration,Android,10,Brazil,Facebook
+568,2025-07-02 07:14:00,App Install,iOS,14.4,US,Referral
+569,2025-07-01 18:24:00,App Install,iOS,16.2,UK,Instagram
+569,2025-07-01 18:25:00,Account Registration,iOS,16.2,UK,Instagram
+570,2025-07-02 03:56:00,App Install,iOS,14.4,UK,Instagram
+570,2025-07-02 03:57:00,Account Registration,iOS,14.4,UK,Instagram
+570,2025-07-02 03:58:00,Email/Mobile Verification,iOS,14.4,UK,Instagram
+570,2025-07-02 03:59:00,Identity Verification (KYC),iOS,14.4,UK,Instagram
+571,2025-07-02 08:52:00,App Install,Android,10,US,Referral
+572,2025-07-02 08:47:00,App Install,iOS,15.1,Brazil,Instagram
+573,2025-07-01 13:57:00,App Install,iOS,16.2,India,Facebook
+573,2025-07-01 13:58:00,Account Registration,iOS,16.2,India,Facebook
+575,2025-07-01 18:46:00,App Install,iOS,15.1,Brazil,Instagram
+575,2025-07-01 18:47:00,Account Registration,iOS,15.1,Brazil,Instagram
+575,2025-07-01 18:48:00,Email/Mobile Verification,iOS,15.1,Brazil,Instagram
+575,2025-07-01 18:49:00,Identity Verification (KYC),iOS,15.1,Brazil,Instagram
+575,2025-07-01 18:50:00,Setup PIN / Add Payment Method,iOS,15.1,Brazil,Instagram
+576,2025-07-02 05:27:00,App Install,Android,12,US,Facebook
+576,2025-07-02 05:28:00,Account Registration,Android,12,US,Facebook
+576,2025-07-02 05:29:00,Email/Mobile Verification,Android,12,US,Facebook
+576,2025-07-02 05:30:00,Identity Verification (KYC),Android,12,US,Facebook
+577,2025-07-01 22:38:00,App Install,Android,11,India,Organic
+577,2025-07-01 22:39:00,Account Registration,Android,11,India,Organic
+577,2025-07-01 22:40:00,Email/Mobile Verification,Android,11,India,Organic
+577,2025-07-01 22:41:00,Identity Verification (KYC),Android,11,India,Organic
+577,2025-07-01 22:42:00,Setup PIN / Add Payment Method,Android,11,India,Organic
+578,2025-07-01 20:52:00,App Install,Android,12,Brazil,Instagram
+578,2025-07-01 20:53:00,Account Registration,Android,12,Brazil,Instagram
+579,2025-07-01 09:09:00,App Install,Android,13,Germany,Instagram
+579,2025-07-01 09:10:00,Account Registration,Android,13,Germany,Instagram
+580,2025-07-02 02:31:00,App Install,Android,12,UK,Facebook
+580,2025-07-02 02:32:00,Account Registration,Android,12,UK,Facebook
+580,2025-07-02 02:33:00,Email/Mobile Verification,Android,12,UK,Facebook
+580,2025-07-02 02:34:00,Identity Verification (KYC),Android,12,UK,Facebook
+580,2025-07-02 02:35:00,Setup PIN / Add Payment Method,Android,12,UK,Facebook
+580,2025-07-02 02:36:00,Onboarding Complete,Android,12,UK,Facebook
+581,2025-07-02 08:15:00,App Install,iOS,14.4,UK,Referral
+581,2025-07-02 08:16:00,Account Registration,iOS,14.4,UK,Referral
+582,2025-07-02 06:37:00,App Install,Android,12,India,Referral
+583,2025-07-02 02:37:00,App Install,Android,12,Germany,Organic
+583,2025-07-02 02:38:00,Account Registration,Android,12,Germany,Organic
+584,2025-07-01 11:35:00,App Install,iOS,14.4,Germany,Organic
+586,2025-07-01 17:15:00,App Install,Android,13,US,Google Ads
+587,2025-07-01 14:19:00,App Install,Android,11,Brazil,Organic
+588,2025-07-02 03:28:00,App Install,Android,13,Brazil,Facebook
+588,2025-07-02 03:29:00,Account Registration,Android,13,Brazil,Facebook
+591,2025-07-02 02:09:00,App Install,iOS,15.1,Brazil,Facebook
+591,2025-07-02 02:10:00,Account Registration,iOS,15.1,Brazil,Facebook
+591,2025-07-02 02:11:00,Email/Mobile Verification,iOS,15.1,Brazil,Facebook
+592,2025-07-01 09:24:00,App Install,Android,13,UK,Facebook
+592,2025-07-01 09:25:00,Account Registration,Android,13,UK,Facebook
+593,2025-07-02 03:43:00,App Install,iOS,16.2,UK,Google Ads
+594,2025-07-01 23:28:00,App Install,iOS,15.1,US,Referral
+594,2025-07-01 23:29:00,Account Registration,iOS,15.1,US,Referral
+596,2025-07-02 03:57:00,App Install,Android,10,UK,Google Ads
+596,2025-07-02 03:58:00,Account Registration,Android,10,UK,Google Ads
+597,2025-07-01 23:23:00,App Install,Android,13,India,Google Ads
+597,2025-07-01 23:24:00,Account Registration,Android,13,India,Google Ads
+597,2025-07-01 23:25:00,Email/Mobile Verification,Android,13,India,Google Ads
+597,2025-07-01 23:26:00,Identity Verification (KYC),Android,13,India,Google Ads
+597,2025-07-01 23:27:00,Setup PIN / Add Payment Method,Android,13,India,Google Ads
+597,2025-07-01 23:28:00,Onboarding Complete,Android,13,India,Google Ads
+598,2025-07-01 10:37:00,App Install,iOS,15.1,Brazil,Instagram
+598,2025-07-01 10:38:00,Account Registration,iOS,15.1,Brazil,Instagram
+599,2025-07-01 20:25:00,App Install,iOS,15.1,India,Referral
+599,2025-07-01 20:26:00,Account Registration,iOS,15.1,India,Referral
+599,2025-07-01 20:27:00,Email/Mobile Verification,iOS,15.1,India,Referral
+599,2025-07-01 20:28:00,Identity Verification (KYC),iOS,15.1,India,Referral
+600,2025-07-01 15:47:00,App Install,iOS,14.4,UK,Instagram
+600,2025-07-01 15:48:00,Account Registration,iOS,14.4,UK,Instagram
+600,2025-07-01 15:49:00,Email/Mobile Verification,iOS,14.4,UK,Instagram
+600,2025-07-01 15:50:00,Identity Verification (KYC),iOS,14.4,UK,Instagram
+601,2025-07-02 00:15:00,App Install,iOS,16.2,Brazil,Referral
+601,2025-07-02 00:16:00,Account Registration,iOS,16.2,Brazil,Referral
+602,2025-07-02 06:32:00,App Install,Android,11,UK,Referral
+602,2025-07-02 06:33:00,Account Registration,Android,11,UK,Referral
+602,2025-07-02 06:34:00,Email/Mobile Verification,Android,11,UK,Referral
+603,2025-07-02 07:17:00,App Install,iOS,14.4,UK,Organic
+604,2025-07-02 05:02:00,App Install,iOS,15.1,Germany,Organic
+604,2025-07-02 05:03:00,Account Registration,iOS,15.1,Germany,Organic
+605,2025-07-02 08:55:00,App Install,Android,11,US,Organic
+606,2025-07-02 01:09:00,App Install,iOS,14.4,India,Facebook
+607,2025-07-01 17:57:00,App Install,iOS,16.2,India,Facebook
+608,2025-07-01 18:41:00,App Install,iOS,15.1,US,Google Ads
+609,2025-07-01 20:06:00,App Install,Android,10,India,Organic
+609,2025-07-01 20:07:00,Account Registration,Android,10,India,Organic
+609,2025-07-01 20:08:00,Email/Mobile Verification,Android,10,India,Organic
+609,2025-07-01 20:09:00,Identity Verification (KYC),Android,10,India,Organic
+610,2025-07-02 00:35:00,App Install,Android,11,Brazil,Instagram
+610,2025-07-02 00:36:00,Account Registration,Android,11,Brazil,Instagram
+610,2025-07-02 00:37:00,Email/Mobile Verification,Android,11,Brazil,Instagram
+610,2025-07-02 00:38:00,Identity Verification (KYC),Android,11,Brazil,Instagram
+610,2025-07-02 00:39:00,Setup PIN / Add Payment Method,Android,11,Brazil,Instagram
+611,2025-07-01 12:03:00,App Install,iOS,15.1,Brazil,Google Ads
+611,2025-07-01 12:04:00,Account Registration,iOS,15.1,Brazil,Google Ads
+612,2025-07-01 13:39:00,App Install,iOS,14.4,India,Instagram
+612,2025-07-01 13:40:00,Account Registration,iOS,14.4,India,Instagram
+613,2025-07-01 23:41:00,App Install,iOS,15.1,UK,Facebook
+613,2025-07-01 23:42:00,Account Registration,iOS,15.1,UK,Facebook
+613,2025-07-01 23:43:00,Email/Mobile Verification,iOS,15.1,UK,Facebook
+613,2025-07-01 23:44:00,Identity Verification (KYC),iOS,15.1,UK,Facebook
+614,2025-07-02 07:02:00,App Install,iOS,15.1,US,Google Ads
+614,2025-07-02 07:03:00,Account Registration,iOS,15.1,US,Google Ads
+615,2025-07-02 05:55:00,App Install,iOS,16.2,US,Instagram
+615,2025-07-02 05:56:00,Account Registration,iOS,16.2,US,Instagram
+617,2025-07-01 18:17:00,App Install,Android,13,Brazil,Referral
+617,2025-07-01 18:18:00,Account Registration,Android,13,Brazil,Referral
+618,2025-07-01 15:20:00,App Install,Android,10,Brazil,Facebook
+620,2025-07-01 19:38:00,App Install,iOS,14.4,UK,Referral
+620,2025-07-01 19:39:00,Account Registration,iOS,14.4,UK,Referral
+621,2025-07-01 10:54:00,App Install,Android,12,India,Google Ads
+621,2025-07-01 10:55:00,Account Registration,Android,12,India,Google Ads
+621,2025-07-01 10:56:00,Email/Mobile Verification,Android,12,India,Google Ads
+622,2025-07-01 17:29:00,App Install,iOS,15.1,India,Facebook
+622,2025-07-01 17:30:00,Account Registration,iOS,15.1,India,Facebook
+623,2025-07-02 02:47:00,App Install,Android,11,Germany,Facebook
+624,2025-07-01 14:24:00,App Install,iOS,16.2,UK,Organic
+625,2025-07-01 15:46:00,App Install,Android,12,Germany,Organic
+628,2025-07-01 21:40:00,App Install,Android,13,Brazil,Google Ads
+631,2025-07-01 23:58:00,App Install,Android,12,Brazil,Organic
+632,2025-07-01 10:20:00,App Install,iOS,15.1,US,Organic
+632,2025-07-01 10:21:00,Account Registration,iOS,15.1,US,Organic
+633,2025-07-02 03:33:00,App Install,iOS,14.4,Brazil,Google Ads
+633,2025-07-02 03:34:00,Account Registration,iOS,14.4,Brazil,Google Ads
+634,2025-07-02 00:20:00,App Install,Android,10,Brazil,Google Ads
+635,2025-07-01 21:56:00,App Install,iOS,15.1,India,Instagram
+635,2025-07-01 21:57:00,Account Registration,iOS,15.1,India,Instagram
+635,2025-07-01 21:58:00,Email/Mobile Verification,iOS,15.1,India,Instagram
+637,2025-07-01 18:39:00,App Install,iOS,16.2,US,Instagram
+637,2025-07-01 18:40:00,Account Registration,iOS,16.2,US,Instagram
+638,2025-07-01 10:04:00,App Install,Android,10,US,Google Ads
+638,2025-07-01 10:05:00,Account Registration,Android,10,US,Google Ads
+639,2025-07-02 06:17:00,App Install,iOS,16.2,Germany,Instagram
+640,2025-07-01 09:26:00,App Install,iOS,14.4,Brazil,Facebook
+641,2025-07-01 21:19:00,App Install,iOS,14.4,Germany,Facebook
+641,2025-07-01 21:20:00,Account Registration,iOS,14.4,Germany,Facebook
+641,2025-07-01 21:21:00,Email/Mobile Verification,iOS,14.4,Germany,Facebook
+642,2025-07-01 11:24:00,App Install,Android,12,Brazil,Facebook
+643,2025-07-02 03:08:00,App Install,Android,10,India,Google Ads
+644,2025-07-01 23:10:00,App Install,Android,11,Brazil,Instagram
+644,2025-07-01 23:11:00,Account Registration,Android,11,Brazil,Instagram
+644,2025-07-01 23:12:00,Email/Mobile Verification,Android,11,Brazil,Instagram
+644,2025-07-01 23:13:00,Identity Verification (KYC),Android,11,Brazil,Instagram
+644,2025-07-01 23:14:00,Setup PIN / Add Payment Method,Android,11,Brazil,Instagram
+645,2025-07-01 22:42:00,App Install,Android,11,US,Instagram
+645,2025-07-01 22:43:00,Account Registration,Android,11,US,Instagram
+645,2025-07-01 22:44:00,Email/Mobile Verification,Android,11,US,Instagram
+645,2025-07-01 22:45:00,Identity Verification (KYC),Android,11,US,Instagram
+645,2025-07-01 22:46:00,Setup PIN / Add Payment Method,Android,11,US,Instagram
+645,2025-07-01 22:47:00,Onboarding Complete,Android,11,US,Instagram
+646,2025-07-01 20:02:00,App Install,iOS,15.1,Germany,Referral
+646,2025-07-01 20:03:00,Account Registration,iOS,15.1,Germany,Referral
+649,2025-07-01 16:19:00,App Install,iOS,14.4,UK,Google Ads
+650,2025-07-02 04:28:00,App Install,iOS,16.2,Brazil,Instagram
+651,2025-07-01 13:43:00,App Install,Android,13,UK,Google Ads
+651,2025-07-01 13:44:00,Account Registration,Android,13,UK,Google Ads
+652,2025-07-01 22:38:00,App Install,iOS,15.1,India,Instagram
+653,2025-07-02 01:39:00,App Install,Android,12,Germany,Google Ads
+653,2025-07-02 01:40:00,Account Registration,Android,12,Germany,Google Ads
+653,2025-07-02 01:41:00,Email/Mobile Verification,Android,12,Germany,Google Ads
+653,2025-07-02 01:42:00,Identity Verification (KYC),Android,12,Germany,Google Ads
+654,2025-07-01 11:40:00,App Install,iOS,14.4,Brazil,Referral
+654,2025-07-01 11:41:00,Account Registration,iOS,14.4,Brazil,Referral
+655,2025-07-02 07:16:00,App Install,iOS,15.1,India,Google Ads
+655,2025-07-02 07:17:00,Account Registration,iOS,15.1,India,Google Ads
+655,2025-07-02 07:18:00,Email/Mobile Verification,iOS,15.1,India,Google Ads
+655,2025-07-02 07:19:00,Identity Verification (KYC),iOS,15.1,India,Google Ads
+656,2025-07-01 14:06:00,App Install,Android,12,Brazil,Instagram
+656,2025-07-01 14:07:00,Account Registration,Android,12,Brazil,Instagram
+658,2025-07-01 13:30:00,App Install,iOS,15.1,Germany,Google Ads
+658,2025-07-01 13:31:00,Account Registration,iOS,15.1,Germany,Google Ads
+658,2025-07-01 13:32:00,Email/Mobile Verification,iOS,15.1,Germany,Google Ads
+658,2025-07-01 13:33:00,Identity Verification (KYC),iOS,15.1,Germany,Google Ads
+659,2025-07-01 13:36:00,App Install,iOS,16.2,Germany,Google Ads
+660,2025-07-02 04:09:00,App Install,iOS,16.2,Brazil,Google Ads
+660,2025-07-02 04:10:00,Account Registration,iOS,16.2,Brazil,Google Ads
+661,2025-07-02 08:22:00,App Install,Android,12,Germany,Organic
+662,2025-07-01 15:30:00,App Install,iOS,15.1,UK,Organic
+662,2025-07-01 15:31:00,Account Registration,iOS,15.1,UK,Organic
+663,2025-07-02 00:05:00,App Install,iOS,14.4,UK,Instagram
+663,2025-07-02 00:06:00,Account Registration,iOS,14.4,UK,Instagram
+663,2025-07-02 00:07:00,Email/Mobile Verification,iOS,14.4,UK,Instagram
+664,2025-07-01 10:51:00,App Install,iOS,14.4,India,Facebook
+664,2025-07-01 10:52:00,Account Registration,iOS,14.4,India,Facebook
+665,2025-07-01 19:24:00,App Install,iOS,14.4,UK,Facebook
+666,2025-07-02 02:51:00,App Install,Android,11,US,Instagram
+666,2025-07-02 02:52:00,Account Registration,Android,11,US,Instagram
+666,2025-07-02 02:53:00,Email/Mobile Verification,Android,11,US,Instagram
+666,2025-07-02 02:54:00,Identity Verification (KYC),Android,11,US,Instagram
+666,2025-07-02 02:55:00,Setup PIN / Add Payment Method,Android,11,US,Instagram
+668,2025-07-01 10:48:00,App Install,iOS,14.4,Brazil,Organic
+668,2025-07-01 10:49:00,Account Registration,iOS,14.4,Brazil,Organic
+669,2025-07-01 09:39:00,App Install,iOS,16.2,UK,Facebook
+669,2025-07-01 09:40:00,Account Registration,iOS,16.2,UK,Facebook
+670,2025-07-02 01:32:00,App Install,iOS,16.2,India,Organic
+670,2025-07-02 01:33:00,Account Registration,iOS,16.2,India,Organic
+671,2025-07-01 17:26:00,App Install,iOS,16.2,India,Facebook
+671,2025-07-01 17:27:00,Account Registration,iOS,16.2,India,Facebook
+671,2025-07-01 17:28:00,Email/Mobile Verification,iOS,16.2,India,Facebook
+671,2025-07-01 17:29:00,Identity Verification (KYC),iOS,16.2,India,Facebook
+672,2025-07-02 02:06:00,App Install,iOS,15.1,UK,Google Ads
+673,2025-07-01 18:33:00,App Install,iOS,15.1,India,Instagram
+673,2025-07-01 18:34:00,Account Registration,iOS,15.1,India,Instagram
+674,2025-07-02 08:08:00,App Install,Android,10,Germany,Instagram
+674,2025-07-02 08:09:00,Account Registration,Android,10,Germany,Instagram
+675,2025-07-02 05:39:00,App Install,Android,11,Germany,Organic
+675,2025-07-02 05:40:00,Account Registration,Android,11,Germany,Organic
+676,2025-07-02 08:30:00,App Install,Android,11,US,Organic
+676,2025-07-02 08:31:00,Account Registration,Android,11,US,Organic
+677,2025-07-02 04:01:00,App Install,Android,11,UK,Facebook
+677,2025-07-02 04:02:00,Account Registration,Android,11,UK,Facebook
+678,2025-07-01 23:02:00,App Install,Android,10,UK,Referral
+678,2025-07-01 23:03:00,Account Registration,Android,10,UK,Referral
+678,2025-07-01 23:04:00,Email/Mobile Verification,Android,10,UK,Referral
+678,2025-07-01 23:05:00,Identity Verification (KYC),Android,10,UK,Referral
+678,2025-07-01 23:06:00,Setup PIN / Add Payment Method,Android,10,UK,Referral
+679,2025-07-01 09:53:00,App Install,Android,10,US,Google Ads
+679,2025-07-01 09:54:00,Account Registration,Android,10,US,Google Ads
+681,2025-07-02 01:00:00,App Install,iOS,14.4,Brazil,Instagram
+681,2025-07-02 01:01:00,Account Registration,iOS,14.4,Brazil,Instagram
+681,2025-07-02 01:02:00,Email/Mobile Verification,iOS,14.4,Brazil,Instagram
+682,2025-07-01 10:06:00,App Install,Android,11,US,Google Ads
+682,2025-07-01 10:07:00,Account Registration,Android,11,US,Google Ads
+682,2025-07-01 10:08:00,Email/Mobile Verification,Android,11,US,Google Ads
+682,2025-07-01 10:09:00,Identity Verification (KYC),Android,11,US,Google Ads
+683,2025-07-01 23:59:00,App Install,Android,11,India,Google Ads
+683,2025-07-02 00:00:00,Account Registration,Android,11,India,Google Ads
+684,2025-07-01 10:25:00,App Install,iOS,14.4,Germany,Referral
+684,2025-07-01 10:26:00,Account Registration,iOS,14.4,Germany,Referral
+684,2025-07-01 10:27:00,Email/Mobile Verification,iOS,14.4,Germany,Referral
+685,2025-07-01 10:26:00,App Install,Android,10,Germany,Referral
+686,2025-07-01 22:13:00,App Install,iOS,16.2,India,Instagram
+686,2025-07-01 22:14:00,Account Registration,iOS,16.2,India,Instagram
+687,2025-07-01 18:45:00,App Install,iOS,15.1,Germany,Organic
+687,2025-07-01 18:46:00,Account Registration,iOS,15.1,Germany,Organic
+687,2025-07-01 18:47:00,Email/Mobile Verification,iOS,15.1,Germany,Organic
+690,2025-07-01 12:04:00,App Install,iOS,16.2,US,Referral
+690,2025-07-01 12:05:00,Account Registration,iOS,16.2,US,Referral
+690,2025-07-01 12:06:00,Email/Mobile Verification,iOS,16.2,US,Referral
+690,2025-07-01 12:07:00,Identity Verification (KYC),iOS,16.2,US,Referral
+690,2025-07-01 12:08:00,Setup PIN / Add Payment Method,iOS,16.2,US,Referral
+691,2025-07-02 02:52:00,App Install,Android,13,UK,Facebook
+691,2025-07-02 02:53:00,Account Registration,Android,13,UK,Facebook
+691,2025-07-02 02:54:00,Email/Mobile Verification,Android,13,UK,Facebook
+691,2025-07-02 02:55:00,Identity Verification (KYC),Android,13,UK,Facebook
+692,2025-07-02 04:18:00,App Install,iOS,14.4,US,Organic
+692,2025-07-02 04:19:00,Account Registration,iOS,14.4,US,Organic
+693,2025-07-01 19:30:00,App Install,Android,11,India,Referral
+693,2025-07-01 19:31:00,Account Registration,Android,11,India,Referral
+693,2025-07-01 19:32:00,Email/Mobile Verification,Android,11,India,Referral
+693,2025-07-01 19:33:00,Identity Verification (KYC),Android,11,India,Referral
+695,2025-07-02 05:45:00,App Install,iOS,15.1,Brazil,Facebook
+696,2025-07-01 11:42:00,App Install,iOS,15.1,Germany,Referral
+698,2025-07-01 10:06:00,App Install,Android,12,India,Google Ads
+698,2025-07-01 10:07:00,Account Registration,Android,12,India,Google Ads
+702,2025-07-01 11:18:00,App Install,iOS,15.1,UK,Referral
+702,2025-07-01 11:19:00,Account Registration,iOS,15.1,UK,Referral
+703,2025-07-01 20:14:00,App Install,iOS,14.4,India,Organic
+703,2025-07-01 20:15:00,Account Registration,iOS,14.4,India,Organic
+703,2025-07-01 20:16:00,Email/Mobile Verification,iOS,14.4,India,Organic
+703,2025-07-01 20:17:00,Identity Verification (KYC),iOS,14.4,India,Organic
+704,2025-07-01 23:34:00,App Install,Android,13,Brazil,Organic
+704,2025-07-01 23:35:00,Account Registration,Android,13,Brazil,Organic
+704,2025-07-01 23:36:00,Email/Mobile Verification,Android,13,Brazil,Organic
+704,2025-07-01 23:37:00,Identity Verification (KYC),Android,13,Brazil,Organic
+705,2025-07-02 01:48:00,App Install,Android,13,Brazil,Referral
+705,2025-07-02 01:49:00,Account Registration,Android,13,Brazil,Referral
+706,2025-07-01 09:49:00,App Install,iOS,14.4,India,Facebook
+706,2025-07-01 09:50:00,Account Registration,iOS,14.4,India,Facebook
+706,2025-07-01 09:51:00,Email/Mobile Verification,iOS,14.4,India,Facebook
+707,2025-07-01 20:56:00,App Install,iOS,15.1,India,Organic
+707,2025-07-01 20:57:00,Account Registration,iOS,15.1,India,Organic
+708,2025-07-01 19:30:00,App Install,Android,12,UK,Facebook
+708,2025-07-01 19:31:00,Account Registration,Android,12,UK,Facebook
+708,2025-07-01 19:32:00,Email/Mobile Verification,Android,12,UK,Facebook
+709,2025-07-02 06:01:00,App Install,iOS,15.1,Germany,Instagram
+709,2025-07-02 06:02:00,Account Registration,iOS,15.1,Germany,Instagram
+710,2025-07-01 10:12:00,App Install,iOS,16.2,Germany,Referral
+710,2025-07-01 10:13:00,Account Registration,iOS,16.2,Germany,Referral
+710,2025-07-01 10:14:00,Email/Mobile Verification,iOS,16.2,Germany,Referral
+710,2025-07-01 10:15:00,Identity Verification (KYC),iOS,16.2,Germany,Referral
+711,2025-07-02 02:47:00,App Install,iOS,15.1,Germany,Facebook
+711,2025-07-02 02:48:00,Account Registration,iOS,15.1,Germany,Facebook
+713,2025-07-01 21:48:00,App Install,Android,12,India,Organic
+713,2025-07-01 21:49:00,Account Registration,Android,12,India,Organic
+713,2025-07-01 21:50:00,Email/Mobile Verification,Android,12,India,Organic
+714,2025-07-01 18:16:00,App Install,Android,12,UK,Facebook
+714,2025-07-01 18:17:00,Account Registration,Android,12,UK,Facebook
+716,2025-07-02 00:08:00,App Install,iOS,14.4,US,Facebook
+716,2025-07-02 00:09:00,Account Registration,iOS,14.4,US,Facebook
+716,2025-07-02 00:10:00,Email/Mobile Verification,iOS,14.4,US,Facebook
+718,2025-07-02 00:40:00,App Install,Android,11,US,Facebook
+718,2025-07-02 00:41:00,Account Registration,Android,11,US,Facebook
+719,2025-07-01 20:22:00,App Install,iOS,14.4,Brazil,Facebook
+720,2025-07-02 06:48:00,App Install,iOS,14.4,Brazil,Organic
+720,2025-07-02 06:49:00,Account Registration,iOS,14.4,Brazil,Organic
+722,2025-07-01 09:31:00,App Install,Android,11,UK,Facebook
+722,2025-07-01 09:32:00,Account Registration,Android,11,UK,Facebook
+723,2025-07-01 13:49:00,App Install,iOS,16.2,UK,Organic
+723,2025-07-01 13:50:00,Account Registration,iOS,16.2,UK,Organic
+723,2025-07-01 13:51:00,Email/Mobile Verification,iOS,16.2,UK,Organic
+726,2025-07-02 05:13:00,App Install,iOS,15.1,US,Instagram
+726,2025-07-02 05:14:00,Account Registration,iOS,15.1,US,Instagram
+726,2025-07-02 05:15:00,Email/Mobile Verification,iOS,15.1,US,Instagram
+727,2025-07-02 00:53:00,App Install,iOS,14.4,Brazil,Facebook
+728,2025-07-02 08:21:00,App Install,iOS,14.4,Germany,Organic
+728,2025-07-02 08:22:00,Account Registration,iOS,14.4,Germany,Organic
+728,2025-07-02 08:23:00,Email/Mobile Verification,iOS,14.4,Germany,Organic
+728,2025-07-02 08:24:00,Identity Verification (KYC),iOS,14.4,Germany,Organic
+729,2025-07-02 08:52:00,App Install,iOS,15.1,Germany,Google Ads
+729,2025-07-02 08:53:00,Account Registration,iOS,15.1,Germany,Google Ads
+729,2025-07-02 08:54:00,Email/Mobile Verification,iOS,15.1,Germany,Google Ads
+730,2025-07-01 12:51:00,App Install,iOS,14.4,India,Referral
+730,2025-07-01 12:52:00,Account Registration,iOS,14.4,India,Referral
+732,2025-07-01 19:18:00,App Install,Android,12,Brazil,Facebook
+732,2025-07-01 19:19:00,Account Registration,Android,12,Brazil,Facebook
+732,2025-07-01 19:20:00,Email/Mobile Verification,Android,12,Brazil,Facebook
+732,2025-07-01 19:21:00,Identity Verification (KYC),Android,12,Brazil,Facebook
+733,2025-07-01 16:06:00,App Install,iOS,15.1,India,Organic
+733,2025-07-01 16:07:00,Account Registration,iOS,15.1,India,Organic
+733,2025-07-01 16:08:00,Email/Mobile Verification,iOS,15.1,India,Organic
+734,2025-07-02 07:37:00,App Install,iOS,16.2,US,Google Ads
+734,2025-07-02 07:38:00,Account Registration,iOS,16.2,US,Google Ads
+734,2025-07-02 07:39:00,Email/Mobile Verification,iOS,16.2,US,Google Ads
+734,2025-07-02 07:40:00,Identity Verification (KYC),iOS,16.2,US,Google Ads
+736,2025-07-02 08:23:00,App Install,iOS,14.4,Brazil,Facebook
+736,2025-07-02 08:24:00,Account Registration,iOS,14.4,Brazil,Facebook
+737,2025-07-01 16:25:00,App Install,iOS,16.2,India,Facebook
+737,2025-07-01 16:26:00,Account Registration,iOS,16.2,India,Facebook
+737,2025-07-01 16:27:00,Email/Mobile Verification,iOS,16.2,India,Facebook
+737,2025-07-01 16:28:00,Identity Verification (KYC),iOS,16.2,India,Facebook
+738,2025-07-01 18:56:00,App Install,Android,11,Germany,Instagram
+738,2025-07-01 18:57:00,Account Registration,Android,11,Germany,Instagram
+739,2025-07-01 23:50:00,App Install,iOS,15.1,Brazil,Organic
+739,2025-07-01 23:51:00,Account Registration,iOS,15.1,Brazil,Organic
+739,2025-07-01 23:52:00,Email/Mobile Verification,iOS,15.1,Brazil,Organic
+739,2025-07-01 23:53:00,Identity Verification (KYC),iOS,15.1,Brazil,Organic
+739,2025-07-01 23:54:00,Setup PIN / Add Payment Method,iOS,15.1,Brazil,Organic
+740,2025-07-02 03:44:00,App Install,Android,12,India,Organic
+741,2025-07-01 17:01:00,App Install,iOS,14.4,UK,Facebook
+741,2025-07-01 17:02:00,Account Registration,iOS,14.4,UK,Facebook
+741,2025-07-01 17:03:00,Email/Mobile Verification,iOS,14.4,UK,Facebook
+741,2025-07-01 17:04:00,Identity Verification (KYC),iOS,14.4,UK,Facebook
+743,2025-07-01 18:50:00,App Install,iOS,15.1,Germany,Google Ads
+743,2025-07-01 18:51:00,Account Registration,iOS,15.1,Germany,Google Ads
+744,2025-07-02 07:27:00,App Install,Android,10,US,Referral
+744,2025-07-02 07:28:00,Account Registration,Android,10,US,Referral
+746,2025-07-01 21:07:00,App Install,iOS,16.2,Germany,Referral
+746,2025-07-01 21:08:00,Account Registration,iOS,16.2,Germany,Referral
+747,2025-07-01 18:11:00,App Install,iOS,16.2,US,Instagram
+747,2025-07-01 18:12:00,Account Registration,iOS,16.2,US,Instagram
+748,2025-07-02 04:48:00,App Install,Android,13,UK,Facebook
+748,2025-07-02 04:49:00,Account Registration,Android,13,UK,Facebook
+749,2025-07-02 02:51:00,App Install,iOS,15.1,Brazil,Facebook
+750,2025-07-02 04:47:00,App Install,iOS,16.2,India,Instagram
+751,2025-07-02 00:29:00,App Install,iOS,16.2,India,Referral
+751,2025-07-02 00:30:00,Account Registration,iOS,16.2,India,Referral
+751,2025-07-02 00:31:00,Email/Mobile Verification,iOS,16.2,India,Referral
+752,2025-07-02 08:43:00,App Install,iOS,15.1,US,Facebook
+752,2025-07-02 08:44:00,Account Registration,iOS,15.1,US,Facebook
+752,2025-07-02 08:45:00,Email/Mobile Verification,iOS,15.1,US,Facebook
+752,2025-07-02 08:46:00,Identity Verification (KYC),iOS,15.1,US,Facebook
+753,2025-07-01 10:45:00,App Install,iOS,16.2,US,Instagram
+754,2025-07-01 13:19:00,App Install,Android,12,Germany,Facebook
+754,2025-07-01 13:20:00,Account Registration,Android,12,Germany,Facebook
+755,2025-07-01 09:29:00,App Install,Android,12,UK,Organic
+755,2025-07-01 09:30:00,Account Registration,Android,12,UK,Organic
+755,2025-07-01 09:31:00,Email/Mobile Verification,Android,12,UK,Organic
+755,2025-07-01 09:32:00,Identity Verification (KYC),Android,12,UK,Organic
+755,2025-07-01 09:33:00,Setup PIN / Add Payment Method,Android,12,UK,Organic
+756,2025-07-01 15:10:00,App Install,Android,12,US,Referral
+756,2025-07-01 15:11:00,Account Registration,Android,12,US,Referral
+757,2025-07-02 01:55:00,App Install,Android,11,Brazil,Google Ads
+757,2025-07-02 01:56:00,Account Registration,Android,11,Brazil,Google Ads
+758,2025-07-02 04:43:00,App Install,iOS,16.2,US,Google Ads
+758,2025-07-02 04:44:00,Account Registration,iOS,16.2,US,Google Ads
+758,2025-07-02 04:45:00,Email/Mobile Verification,iOS,16.2,US,Google Ads
+758,2025-07-02 04:46:00,Identity Verification (KYC),iOS,16.2,US,Google Ads
+759,2025-07-01 19:17:00,App Install,Android,13,Germany,Referral
+759,2025-07-01 19:18:00,Account Registration,Android,13,Germany,Referral
+759,2025-07-01 19:19:00,Email/Mobile Verification,Android,13,Germany,Referral
+760,2025-07-02 03:06:00,App Install,iOS,15.1,UK,Google Ads
+761,2025-07-02 08:18:00,App Install,iOS,15.1,UK,Instagram
+762,2025-07-01 20:26:00,App Install,iOS,15.1,Brazil,Organic
+762,2025-07-01 20:27:00,Account Registration,iOS,15.1,Brazil,Organic
+763,2025-07-01 15:39:00,App Install,iOS,15.1,US,Instagram
+763,2025-07-01 15:40:00,Account Registration,iOS,15.1,US,Instagram
+763,2025-07-01 15:41:00,Email/Mobile Verification,iOS,15.1,US,Instagram
+765,2025-07-01 18:40:00,App Install,Android,13,UK,Google Ads
+766,2025-07-02 05:27:00,App Install,Android,10,Brazil,Google Ads
+766,2025-07-02 05:28:00,Account Registration,Android,10,Brazil,Google Ads
+767,2025-07-01 12:47:00,App Install,Android,13,Brazil,Google Ads
+768,2025-07-01 18:26:00,App Install,iOS,16.2,India,Referral
+768,2025-07-01 18:27:00,Account Registration,iOS,16.2,India,Referral
+768,2025-07-01 18:28:00,Email/Mobile Verification,iOS,16.2,India,Referral
+768,2025-07-01 18:29:00,Identity Verification (KYC),iOS,16.2,India,Referral
+769,2025-07-01 22:15:00,App Install,Android,12,India,Referral
+770,2025-07-02 01:47:00,App Install,iOS,14.4,Germany,Facebook
+771,2025-07-01 13:54:00,App Install,iOS,14.4,Germany,Facebook
+771,2025-07-01 13:55:00,Account Registration,iOS,14.4,Germany,Facebook
+771,2025-07-01 13:56:00,Email/Mobile Verification,iOS,14.4,Germany,Facebook
+773,2025-07-01 14:04:00,App Install,iOS,15.1,India,Referral
+774,2025-07-02 08:53:00,App Install,Android,13,UK,Google Ads
+774,2025-07-02 08:54:00,Account Registration,Android,13,UK,Google Ads
+775,2025-07-01 11:23:00,App Install,iOS,15.1,Germany,Referral
+776,2025-07-01 21:15:00,App Install,iOS,14.4,Brazil,Instagram
+776,2025-07-01 21:16:00,Account Registration,iOS,14.4,Brazil,Instagram
+777,2025-07-01 11:44:00,App Install,Android,12,Brazil,Organic
+777,2025-07-01 11:45:00,Account Registration,Android,12,Brazil,Organic
+778,2025-07-01 22:06:00,App Install,Android,11,Brazil,Facebook
+779,2025-07-01 11:53:00,App Install,iOS,14.4,UK,Referral
+779,2025-07-01 11:54:00,Account Registration,iOS,14.4,UK,Referral
+780,2025-07-01 17:08:00,App Install,Android,11,India,Instagram
+782,2025-07-01 13:02:00,App Install,Android,12,India,Referral
+782,2025-07-01 13:03:00,Account Registration,Android,12,India,Referral
+782,2025-07-01 13:04:00,Email/Mobile Verification,Android,12,India,Referral
+782,2025-07-01 13:05:00,Identity Verification (KYC),Android,12,India,Referral
+782,2025-07-01 13:06:00,Setup PIN / Add Payment Method,Android,12,India,Referral
+783,2025-07-02 01:41:00,App Install,Android,10,India,Google Ads
+783,2025-07-02 01:42:00,Account Registration,Android,10,India,Google Ads
+783,2025-07-02 01:43:00,Email/Mobile Verification,Android,10,India,Google Ads
+784,2025-07-01 19:29:00,App Install,Android,10,US,Facebook
+785,2025-07-02 01:58:00,App Install,Android,10,India,Facebook
+785,2025-07-02 01:59:00,Account Registration,Android,10,India,Facebook
+789,2025-07-01 17:18:00,App Install,iOS,16.2,US,Referral
+791,2025-07-01 18:41:00,App Install,Android,11,India,Instagram
+791,2025-07-01 18:42:00,Account Registration,Android,11,India,Instagram
+791,2025-07-01 18:43:00,Email/Mobile Verification,Android,11,India,Instagram
+791,2025-07-01 18:44:00,Identity Verification (KYC),Android,11,India,Instagram
+792,2025-07-01 17:09:00,App Install,iOS,16.2,Germany,Referral
+792,2025-07-01 17:10:00,Account Registration,iOS,16.2,Germany,Referral
+793,2025-07-02 06:24:00,App Install,Android,13,Brazil,Facebook
+793,2025-07-02 06:25:00,Account Registration,Android,13,Brazil,Facebook
+793,2025-07-02 06:26:00,Email/Mobile Verification,Android,13,Brazil,Facebook
+793,2025-07-02 06:27:00,Identity Verification (KYC),Android,13,Brazil,Facebook
+794,2025-07-01 16:29:00,App Install,Android,12,Brazil,Instagram
+794,2025-07-01 16:30:00,Account Registration,Android,12,Brazil,Instagram
+795,2025-07-02 08:23:00,App Install,Android,11,India,Google Ads
+795,2025-07-02 08:24:00,Account Registration,Android,11,India,Google Ads
+795,2025-07-02 08:25:00,Email/Mobile Verification,Android,11,India,Google Ads
+796,2025-07-01 16:09:00,App Install,Android,10,UK,Organic
+796,2025-07-01 16:10:00,Account Registration,Android,10,UK,Organic
+796,2025-07-01 16:11:00,Email/Mobile Verification,Android,10,UK,Organic
+796,2025-07-01 16:12:00,Identity Verification (KYC),Android,10,UK,Organic
+797,2025-07-02 01:33:00,App Install,Android,11,US,Facebook
+798,2025-07-01 20:07:00,App Install,Android,13,Brazil,Instagram
+798,2025-07-01 20:08:00,Account Registration,Android,13,Brazil,Instagram
+798,2025-07-01 20:09:00,Email/Mobile Verification,Android,13,Brazil,Instagram
+799,2025-07-01 17:05:00,App Install,Android,12,US,Facebook
+799,2025-07-01 17:06:00,Account Registration,Android,12,US,Facebook
+802,2025-07-02 06:34:00,App Install,iOS,14.4,Germany,Google Ads
+803,2025-07-01 11:02:00,App Install,iOS,14.4,India,Instagram
+804,2025-07-01 20:43:00,App Install,iOS,15.1,Germany,Google Ads
+806,2025-07-02 00:47:00,App Install,iOS,14.4,Brazil,Referral
+806,2025-07-02 00:48:00,Account Registration,iOS,14.4,Brazil,Referral
+806,2025-07-02 00:49:00,Email/Mobile Verification,iOS,14.4,Brazil,Referral
+807,2025-07-02 05:11:00,App Install,iOS,15.1,Brazil,Google Ads
+807,2025-07-02 05:12:00,Account Registration,iOS,15.1,Brazil,Google Ads
+807,2025-07-02 05:13:00,Email/Mobile Verification,iOS,15.1,Brazil,Google Ads
+808,2025-07-01 10:08:00,App Install,Android,10,Germany,Instagram
+808,2025-07-01 10:09:00,Account Registration,Android,10,Germany,Instagram
+808,2025-07-01 10:10:00,Email/Mobile Verification,Android,10,Germany,Instagram
+808,2025-07-01 10:11:00,Identity Verification (KYC),Android,10,Germany,Instagram
+809,2025-07-01 09:25:00,App Install,iOS,14.4,India,Instagram
+809,2025-07-01 09:26:00,Account Registration,iOS,14.4,India,Instagram
+810,2025-07-01 09:32:00,App Install,iOS,15.1,US,Facebook
+810,2025-07-01 09:33:00,Account Registration,iOS,15.1,US,Facebook
+810,2025-07-01 09:34:00,Email/Mobile Verification,iOS,15.1,US,Facebook
+810,2025-07-01 09:35:00,Identity Verification (KYC),iOS,15.1,US,Facebook
+810,2025-07-01 09:36:00,Setup PIN / Add Payment Method,iOS,15.1,US,Facebook
+811,2025-07-01 15:18:00,App Install,iOS,15.1,US,Referral
+811,2025-07-01 15:19:00,Account Registration,iOS,15.1,US,Referral
+811,2025-07-01 15:20:00,Email/Mobile Verification,iOS,15.1,US,Referral
+811,2025-07-01 15:21:00,Identity Verification (KYC),iOS,15.1,US,Referral
+811,2025-07-01 15:22:00,Setup PIN / Add Payment Method,iOS,15.1,US,Referral
+812,2025-07-01 23:32:00,App Install,iOS,16.2,India,Organic
+812,2025-07-01 23:33:00,Account Registration,iOS,16.2,India,Organic
+812,2025-07-01 23:34:00,Email/Mobile Verification,iOS,16.2,India,Organic
+812,2025-07-01 23:35:00,Identity Verification (KYC),iOS,16.2,India,Organic
+813,2025-07-02 08:01:00,App Install,Android,12,India,Instagram
+814,2025-07-01 10:23:00,App Install,iOS,15.1,Germany,Instagram
+815,2025-07-01 17:08:00,App Install,Android,11,US,Organic
+815,2025-07-01 17:09:00,Account Registration,Android,11,US,Organic
+815,2025-07-01 17:10:00,Email/Mobile Verification,Android,11,US,Organic
+815,2025-07-01 17:11:00,Identity Verification (KYC),Android,11,US,Organic
+815,2025-07-01 17:12:00,Setup PIN / Add Payment Method,Android,11,US,Organic
+815,2025-07-01 17:13:00,Onboarding Complete,Android,11,US,Organic
+816,2025-07-02 02:11:00,App Install,Android,12,UK,Organic
+817,2025-07-02 01:35:00,App Install,Android,12,UK,Referral
+817,2025-07-02 01:36:00,Account Registration,Android,12,UK,Referral
+817,2025-07-02 01:37:00,Email/Mobile Verification,Android,12,UK,Referral
+817,2025-07-02 01:38:00,Identity Verification (KYC),Android,12,UK,Referral
+817,2025-07-02 01:39:00,Setup PIN / Add Payment Method,Android,12,UK,Referral
+817,2025-07-02 01:40:00,Onboarding Complete,Android,12,UK,Referral
+818,2025-07-01 15:25:00,App Install,iOS,16.2,UK,Facebook
+818,2025-07-01 15:26:00,Account Registration,iOS,16.2,UK,Facebook
+819,2025-07-01 14:37:00,App Install,Android,12,India,Facebook
+819,2025-07-01 14:38:00,Account Registration,Android,12,India,Facebook
+819,2025-07-01 14:39:00,Email/Mobile Verification,Android,12,India,Facebook
+819,2025-07-01 14:40:00,Identity Verification (KYC),Android,12,India,Facebook
+820,2025-07-01 13:30:00,App Install,Android,12,Germany,Instagram
+820,2025-07-01 13:31:00,Account Registration,Android,12,Germany,Instagram
+820,2025-07-01 13:32:00,Email/Mobile Verification,Android,12,Germany,Instagram
+821,2025-07-02 02:44:00,App Install,Android,10,India,Google Ads
+821,2025-07-02 02:45:00,Account Registration,Android,10,India,Google Ads
+822,2025-07-02 03:43:00,App Install,iOS,15.1,Brazil,Instagram
+822,2025-07-02 03:44:00,Account Registration,iOS,15.1,Brazil,Instagram
+823,2025-07-02 01:31:00,App Install,iOS,14.4,UK,Google Ads
+824,2025-07-02 00:33:00,App Install,Android,11,UK,Organic
+824,2025-07-02 00:34:00,Account Registration,Android,11,UK,Organic
+825,2025-07-01 14:30:00,App Install,iOS,14.4,US,Google Ads
+826,2025-07-01 17:53:00,App Install,iOS,16.2,US,Referral
+827,2025-07-01 21:43:00,App Install,Android,12,UK,Google Ads
+827,2025-07-01 21:44:00,Account Registration,Android,12,UK,Google Ads
+827,2025-07-01 21:45:00,Email/Mobile Verification,Android,12,UK,Google Ads
+828,2025-07-02 00:38:00,App Install,Android,13,Germany,Google Ads
+829,2025-07-01 18:53:00,App Install,iOS,16.2,UK,Referral
+829,2025-07-01 18:54:00,Account Registration,iOS,16.2,UK,Referral
+829,2025-07-01 18:55:00,Email/Mobile Verification,iOS,16.2,UK,Referral
+829,2025-07-01 18:56:00,Identity Verification (KYC),iOS,16.2,UK,Referral
+829,2025-07-01 18:57:00,Setup PIN / Add Payment Method,iOS,16.2,UK,Referral
+829,2025-07-01 18:58:00,Onboarding Complete,iOS,16.2,UK,Referral
+831,2025-07-02 06:04:00,App Install,Android,12,India,Referral
+831,2025-07-02 06:05:00,Account Registration,Android,12,India,Referral
+832,2025-07-01 16:34:00,App Install,Android,11,Brazil,Instagram
+832,2025-07-01 16:35:00,Account Registration,Android,11,Brazil,Instagram
+834,2025-07-01 10:54:00,App Install,iOS,16.2,Brazil,Instagram
+834,2025-07-01 10:55:00,Account Registration,iOS,16.2,Brazil,Instagram
+835,2025-07-01 09:24:00,App Install,iOS,15.1,Germany,Organic
+835,2025-07-01 09:25:00,Account Registration,iOS,15.1,Germany,Organic
+835,2025-07-01 09:26:00,Email/Mobile Verification,iOS,15.1,Germany,Organic
+835,2025-07-01 09:27:00,Identity Verification (KYC),iOS,15.1,Germany,Organic
+837,2025-07-02 05:02:00,App Install,iOS,16.2,Germany,Google Ads
+838,2025-07-01 11:15:00,App Install,iOS,15.1,Brazil,Organic
+838,2025-07-01 11:16:00,Account Registration,iOS,15.1,Brazil,Organic
+839,2025-07-01 14:58:00,App Install,Android,13,UK,Referral
+839,2025-07-01 14:59:00,Account Registration,Android,13,UK,Referral
+839,2025-07-01 15:00:00,Email/Mobile Verification,Android,13,UK,Referral
+841,2025-07-02 04:05:00,App Install,iOS,16.2,UK,Referral
+842,2025-07-02 06:51:00,App Install,Android,11,UK,Organic
+842,2025-07-02 06:52:00,Account Registration,Android,11,UK,Organic
+842,2025-07-02 06:53:00,Email/Mobile Verification,Android,11,UK,Organic
+842,2025-07-02 06:54:00,Identity Verification (KYC),Android,11,UK,Organic
+843,2025-07-01 13:04:00,App Install,iOS,16.2,US,Facebook
+843,2025-07-01 13:05:00,Account Registration,iOS,16.2,US,Facebook
+843,2025-07-01 13:06:00,Email/Mobile Verification,iOS,16.2,US,Facebook
+843,2025-07-01 13:07:00,Identity Verification (KYC),iOS,16.2,US,Facebook
+844,2025-07-02 06:26:00,App Install,iOS,16.2,Germany,Organic
+844,2025-07-02 06:27:00,Account Registration,iOS,16.2,Germany,Organic
+844,2025-07-02 06:28:00,Email/Mobile Verification,iOS,16.2,Germany,Organic
+847,2025-07-01 18:53:00,App Install,iOS,15.1,UK,Facebook
+847,2025-07-01 18:54:00,Account Registration,iOS,15.1,UK,Facebook
+848,2025-07-01 14:42:00,App Install,Android,11,India,Instagram
+848,2025-07-01 14:43:00,Account Registration,Android,11,India,Instagram
+848,2025-07-01 14:44:00,Email/Mobile Verification,Android,11,India,Instagram
+848,2025-07-01 14:45:00,Identity Verification (KYC),Android,11,India,Instagram
+849,2025-07-01 21:00:00,App Install,iOS,14.4,Brazil,Instagram
+850,2025-07-01 20:36:00,App Install,iOS,15.1,Germany,Referral
+851,2025-07-01 15:25:00,App Install,Android,11,Brazil,Google Ads
+851,2025-07-01 15:26:00,Account Registration,Android,11,Brazil,Google Ads
+851,2025-07-01 15:27:00,Email/Mobile Verification,Android,11,Brazil,Google Ads
+851,2025-07-01 15:28:00,Identity Verification (KYC),Android,11,Brazil,Google Ads
+851,2025-07-01 15:29:00,Setup PIN / Add Payment Method,Android,11,Brazil,Google Ads
+851,2025-07-01 15:30:00,Onboarding Complete,Android,11,Brazil,Google Ads
+852,2025-07-01 12:58:00,App Install,Android,13,Germany,Facebook
+852,2025-07-01 12:59:00,Account Registration,Android,13,Germany,Facebook
+852,2025-07-01 13:00:00,Email/Mobile Verification,Android,13,Germany,Facebook
+853,2025-07-02 02:51:00,App Install,iOS,14.4,Germany,Instagram
+853,2025-07-02 02:52:00,Account Registration,iOS,14.4,Germany,Instagram
+853,2025-07-02 02:53:00,Email/Mobile Verification,iOS,14.4,Germany,Instagram
+854,2025-07-02 08:29:00,App Install,Android,11,US,Google Ads
+858,2025-07-01 16:00:00,App Install,Android,10,India,Instagram
+859,2025-07-01 18:28:00,App Install,iOS,14.4,India,Google Ads
+859,2025-07-01 18:29:00,Account Registration,iOS,14.4,India,Google Ads
+860,2025-07-01 09:28:00,App Install,Android,10,India,Instagram
+860,2025-07-01 09:29:00,Account Registration,Android,10,India,Instagram
+860,2025-07-01 09:30:00,Email/Mobile Verification,Android,10,India,Instagram
+861,2025-07-02 01:12:00,App Install,Android,10,US,Instagram
+861,2025-07-02 01:13:00,Account Registration,Android,10,US,Instagram
+861,2025-07-02 01:14:00,Email/Mobile Verification,Android,10,US,Instagram
+861,2025-07-02 01:15:00,Identity Verification (KYC),Android,10,US,Instagram
+862,2025-07-02 02:33:00,App Install,iOS,15.1,Germany,Google Ads
+865,2025-07-02 00:35:00,App Install,iOS,14.4,Germany,Organic
+865,2025-07-02 00:36:00,Account Registration,iOS,14.4,Germany,Organic
+865,2025-07-02 00:37:00,Email/Mobile Verification,iOS,14.4,Germany,Organic
+866,2025-07-01 11:22:00,App Install,iOS,15.1,Germany,Google Ads
+866,2025-07-01 11:23:00,Account Registration,iOS,15.1,Germany,Google Ads
+866,2025-07-01 11:24:00,Email/Mobile Verification,iOS,15.1,Germany,Google Ads
+867,2025-07-01 23:57:00,App Install,Android,13,India,Referral
+867,2025-07-01 23:58:00,Account Registration,Android,13,India,Referral
+870,2025-07-02 04:51:00,App Install,iOS,16.2,Germany,Organic
+870,2025-07-02 04:52:00,Account Registration,iOS,16.2,Germany,Organic
+870,2025-07-02 04:53:00,Email/Mobile Verification,iOS,16.2,Germany,Organic
+870,2025-07-02 04:54:00,Identity Verification (KYC),iOS,16.2,Germany,Organic
+871,2025-07-01 14:01:00,App Install,iOS,15.1,Brazil,Organic
+872,2025-07-02 06:26:00,App Install,iOS,15.1,Germany,Google Ads
+873,2025-07-01 15:06:00,App Install,Android,10,Germany,Facebook
+873,2025-07-01 15:07:00,Account Registration,Android,10,Germany,Facebook
+874,2025-07-02 00:54:00,App Install,Android,10,Brazil,Referral
+874,2025-07-02 00:55:00,Account Registration,Android,10,Brazil,Referral
+874,2025-07-02 00:56:00,Email/Mobile Verification,Android,10,Brazil,Referral
+875,2025-07-01 10:04:00,App Install,iOS,16.2,Brazil,Facebook
+875,2025-07-01 10:05:00,Account Registration,iOS,16.2,Brazil,Facebook
+878,2025-07-02 08:02:00,App Install,iOS,15.1,India,Instagram
+878,2025-07-02 08:03:00,Account Registration,iOS,15.1,India,Instagram
+878,2025-07-02 08:04:00,Email/Mobile Verification,iOS,15.1,India,Instagram
+879,2025-07-02 01:53:00,App Install,Android,10,Germany,Organic
+879,2025-07-02 01:54:00,Account Registration,Android,10,Germany,Organic
+879,2025-07-02 01:55:00,Email/Mobile Verification,Android,10,Germany,Organic
+879,2025-07-02 01:56:00,Identity Verification (KYC),Android,10,Germany,Organic
+880,2025-07-01 13:22:00,App Install,Android,10,Brazil,Facebook
+880,2025-07-01 13:23:00,Account Registration,Android,10,Brazil,Facebook
+880,2025-07-01 13:24:00,Email/Mobile Verification,Android,10,Brazil,Facebook
+881,2025-07-01 20:46:00,App Install,iOS,15.1,India,Referral
+881,2025-07-01 20:47:00,Account Registration,iOS,15.1,India,Referral
+884,2025-07-02 04:23:00,App Install,iOS,14.4,Germany,Referral
+884,2025-07-02 04:24:00,Account Registration,iOS,14.4,Germany,Referral
+885,2025-07-01 21:53:00,App Install,iOS,16.2,India,Organic
+885,2025-07-01 21:54:00,Account Registration,iOS,16.2,India,Organic
+886,2025-07-02 01:57:00,App Install,iOS,14.4,US,Organic
+886,2025-07-02 01:58:00,Account Registration,iOS,14.4,US,Organic
+887,2025-07-02 01:57:00,App Install,iOS,15.1,Germany,Google Ads
+887,2025-07-02 01:58:00,Account Registration,iOS,15.1,Germany,Google Ads
+888,2025-07-01 19:08:00,App Install,Android,12,UK,Facebook
+888,2025-07-01 19:09:00,Account Registration,Android,12,UK,Facebook
+890,2025-07-01 11:37:00,App Install,iOS,15.1,US,Organic
+890,2025-07-01 11:38:00,Account Registration,iOS,15.1,US,Organic
+890,2025-07-01 11:39:00,Email/Mobile Verification,iOS,15.1,US,Organic
+891,2025-07-01 17:34:00,App Install,iOS,14.4,Germany,Referral
+891,2025-07-01 17:35:00,Account Registration,iOS,14.4,Germany,Referral
+891,2025-07-01 17:36:00,Email/Mobile Verification,iOS,14.4,Germany,Referral
+892,2025-07-01 16:16:00,App Install,Android,11,Brazil,Referral
+892,2025-07-01 16:17:00,Account Registration,Android,11,Brazil,Referral
+892,2025-07-01 16:18:00,Email/Mobile Verification,Android,11,Brazil,Referral
+893,2025-07-01 15:50:00,App Install,iOS,16.2,India,Instagram
+894,2025-07-01 19:52:00,App Install,Android,12,Germany,Referral
+894,2025-07-01 19:53:00,Account Registration,Android,12,Germany,Referral
+894,2025-07-01 19:54:00,Email/Mobile Verification,Android,12,Germany,Referral
+894,2025-07-01 19:55:00,Identity Verification (KYC),Android,12,Germany,Referral
+895,2025-07-02 08:26:00,App Install,iOS,16.2,US,Organic
+895,2025-07-02 08:27:00,Account Registration,iOS,16.2,US,Organic
+896,2025-07-02 00:50:00,App Install,Android,10,US,Organic
+896,2025-07-02 00:51:00,Account Registration,Android,10,US,Organic
+896,2025-07-02 00:52:00,Email/Mobile Verification,Android,10,US,Organic
+896,2025-07-02 00:53:00,Identity Verification (KYC),Android,10,US,Organic
+897,2025-07-01 18:28:00,App Install,iOS,14.4,India,Organic
+898,2025-07-01 11:51:00,App Install,Android,13,India,Facebook
+899,2025-07-01 22:32:00,App Install,Android,13,UK,Facebook
+899,2025-07-01 22:33:00,Account Registration,Android,13,UK,Facebook
+900,2025-07-02 02:55:00,App Install,Android,10,Brazil,Instagram
+900,2025-07-02 02:56:00,Account Registration,Android,10,Brazil,Instagram
+901,2025-07-01 22:18:00,App Install,Android,12,UK,Instagram
+901,2025-07-01 22:19:00,Account Registration,Android,12,UK,Instagram
+901,2025-07-01 22:20:00,Email/Mobile Verification,Android,12,UK,Instagram
+902,2025-07-02 00:00:00,App Install,Android,11,US,Organic
+902,2025-07-02 00:01:00,Account Registration,Android,11,US,Organic
+903,2025-07-02 03:37:00,App Install,iOS,16.2,India,Organic
+903,2025-07-02 03:38:00,Account Registration,iOS,16.2,India,Organic
+903,2025-07-02 03:39:00,Email/Mobile Verification,iOS,16.2,India,Organic
+903,2025-07-02 03:40:00,Identity Verification (KYC),iOS,16.2,India,Organic
+903,2025-07-02 03:41:00,Setup PIN / Add Payment Method,iOS,16.2,India,Organic
+904,2025-07-01 10:11:00,App Install,iOS,15.1,India,Instagram
+904,2025-07-01 10:12:00,Account Registration,iOS,15.1,India,Instagram
+904,2025-07-01 10:13:00,Email/Mobile Verification,iOS,15.1,India,Instagram
+904,2025-07-01 10:14:00,Identity Verification (KYC),iOS,15.1,India,Instagram
+904,2025-07-01 10:15:00,Setup PIN / Add Payment Method,iOS,15.1,India,Instagram
+905,2025-07-02 03:15:00,App Install,iOS,15.1,UK,Facebook
+905,2025-07-02 03:16:00,Account Registration,iOS,15.1,UK,Facebook
+906,2025-07-01 17:02:00,App Install,iOS,15.1,UK,Facebook
+906,2025-07-01 17:03:00,Account Registration,iOS,15.1,UK,Facebook
+907,2025-07-01 10:09:00,App Install,iOS,16.2,UK,Referral
+908,2025-07-01 23:25:00,App Install,iOS,15.1,Germany,Organic
+908,2025-07-01 23:26:00,Account Registration,iOS,15.1,Germany,Organic
+908,2025-07-01 23:27:00,Email/Mobile Verification,iOS,15.1,Germany,Organic
+908,2025-07-01 23:28:00,Identity Verification (KYC),iOS,15.1,Germany,Organic
+909,2025-07-01 20:09:00,App Install,iOS,15.1,Brazil,Instagram
+910,2025-07-01 09:06:00,App Install,Android,11,Germany,Google Ads
+910,2025-07-01 09:07:00,Account Registration,Android,11,Germany,Google Ads
+911,2025-07-02 02:37:00,App Install,Android,10,US,Google Ads
+911,2025-07-02 02:38:00,Account Registration,Android,10,US,Google Ads
+911,2025-07-02 02:39:00,Email/Mobile Verification,Android,10,US,Google Ads
+912,2025-07-01 13:33:00,App Install,iOS,15.1,Germany,Referral
+912,2025-07-01 13:34:00,Account Registration,iOS,15.1,Germany,Referral
+912,2025-07-01 13:35:00,Email/Mobile Verification,iOS,15.1,Germany,Referral
+912,2025-07-01 13:36:00,Identity Verification (KYC),iOS,15.1,Germany,Referral
+913,2025-07-01 21:52:00,App Install,iOS,15.1,US,Referral
+913,2025-07-01 21:53:00,Account Registration,iOS,15.1,US,Referral
+914,2025-07-01 15:46:00,App Install,Android,11,India,Referral
+914,2025-07-01 15:47:00,Account Registration,Android,11,India,Referral
+915,2025-07-01 12:02:00,App Install,iOS,16.2,UK,Google Ads
+916,2025-07-02 00:29:00,App Install,Android,10,Brazil,Referral
+916,2025-07-02 00:30:00,Account Registration,Android,10,Brazil,Referral
+917,2025-07-02 01:52:00,App Install,Android,11,UK,Organic
+917,2025-07-02 01:53:00,Account Registration,Android,11,UK,Organic
+918,2025-07-01 15:09:00,App Install,Android,12,US,Referral
+919,2025-07-02 00:23:00,App Install,iOS,15.1,US,Instagram
+919,2025-07-02 00:24:00,Account Registration,iOS,15.1,US,Instagram
+919,2025-07-02 00:25:00,Email/Mobile Verification,iOS,15.1,US,Instagram
+920,2025-07-02 08:39:00,App Install,Android,13,US,Organic
+922,2025-07-02 01:04:00,App Install,Android,10,UK,Google Ads
+922,2025-07-02 01:05:00,Account Registration,Android,10,UK,Google Ads
+922,2025-07-02 01:06:00,Email/Mobile Verification,Android,10,UK,Google Ads
+922,2025-07-02 01:07:00,Identity Verification (KYC),Android,10,UK,Google Ads
+923,2025-07-02 06:09:00,App Install,Android,10,UK,Instagram
+923,2025-07-02 06:10:00,Account Registration,Android,10,UK,Instagram
+923,2025-07-02 06:11:00,Email/Mobile Verification,Android,10,UK,Instagram
+924,2025-07-02 02:11:00,App Install,Android,11,UK,Google Ads
+924,2025-07-02 02:12:00,Account Registration,Android,11,UK,Google Ads
+924,2025-07-02 02:13:00,Email/Mobile Verification,Android,11,UK,Google Ads
+926,2025-07-01 23:40:00,App Install,Android,13,UK,Organic
+926,2025-07-01 23:41:00,Account Registration,Android,13,UK,Organic
+926,2025-07-01 23:42:00,Email/Mobile Verification,Android,13,UK,Organic
+926,2025-07-01 23:43:00,Identity Verification (KYC),Android,13,UK,Organic
+927,2025-07-02 01:46:00,App Install,iOS,15.1,US,Organic
+928,2025-07-01 10:51:00,App Install,iOS,14.4,US,Google Ads
+929,2025-07-01 12:57:00,App Install,iOS,14.4,Germany,Referral
+929,2025-07-01 12:58:00,Account Registration,iOS,14.4,Germany,Referral
+930,2025-07-02 00:37:00,App Install,iOS,16.2,Brazil,Referral
+930,2025-07-02 00:38:00,Account Registration,iOS,16.2,Brazil,Referral
+930,2025-07-02 00:39:00,Email/Mobile Verification,iOS,16.2,Brazil,Referral
+931,2025-07-01 14:44:00,App Install,Android,11,UK,Google Ads
+931,2025-07-01 14:45:00,Account Registration,Android,11,UK,Google Ads
+931,2025-07-01 14:46:00,Email/Mobile Verification,Android,11,UK,Google Ads
+931,2025-07-01 14:47:00,Identity Verification (KYC),Android,11,UK,Google Ads
+932,2025-07-01 17:24:00,App Install,Android,11,Germany,Facebook
+932,2025-07-01 17:25:00,Account Registration,Android,11,Germany,Facebook
+932,2025-07-01 17:26:00,Email/Mobile Verification,Android,11,Germany,Facebook
+933,2025-07-01 12:37:00,App Install,Android,13,UK,Instagram
+934,2025-07-02 06:26:00,App Install,Android,13,Germany,Referral
+934,2025-07-02 06:27:00,Account Registration,Android,13,Germany,Referral
+935,2025-07-01 13:24:00,App Install,Android,13,UK,Instagram
+936,2025-07-02 03:40:00,App Install,iOS,15.1,India,Facebook
+936,2025-07-02 03:41:00,Account Registration,iOS,15.1,India,Facebook
+937,2025-07-01 09:42:00,App Install,Android,11,Germany,Facebook
+938,2025-07-01 19:11:00,App Install,iOS,15.1,US,Facebook
+938,2025-07-01 19:12:00,Account Registration,iOS,15.1,US,Facebook
+938,2025-07-01 19:13:00,Email/Mobile Verification,iOS,15.1,US,Facebook
+940,2025-07-02 04:13:00,App Install,iOS,15.1,Germany,Organic
+941,2025-07-01 23:49:00,App Install,iOS,15.1,Brazil,Google Ads
+942,2025-07-02 01:54:00,App Install,iOS,15.1,US,Google Ads
+942,2025-07-02 01:55:00,Account Registration,iOS,15.1,US,Google Ads
+944,2025-07-01 23:35:00,App Install,Android,12,US,Instagram
+945,2025-07-02 02:25:00,App Install,Android,10,Brazil,Facebook
+946,2025-07-01 11:47:00,App Install,iOS,15.1,UK,Instagram
+948,2025-07-02 07:52:00,App Install,iOS,15.1,Brazil,Referral
+948,2025-07-02 07:53:00,Account Registration,iOS,15.1,Brazil,Referral
+949,2025-07-02 05:37:00,App Install,Android,11,US,Facebook
+949,2025-07-02 05:38:00,Account Registration,Android,11,US,Facebook
+949,2025-07-02 05:39:00,Email/Mobile Verification,Android,11,US,Facebook
+950,2025-07-02 07:23:00,App Install,iOS,14.4,India,Google Ads
+950,2025-07-02 07:24:00,Account Registration,iOS,14.4,India,Google Ads
+950,2025-07-02 07:25:00,Email/Mobile Verification,iOS,14.4,India,Google Ads
+950,2025-07-02 07:26:00,Identity Verification (KYC),iOS,14.4,India,Google Ads
+950,2025-07-02 07:27:00,Setup PIN / Add Payment Method,iOS,14.4,India,Google Ads
+952,2025-07-02 08:45:00,App Install,Android,11,India,Facebook
+952,2025-07-02 08:46:00,Account Registration,Android,11,India,Facebook
+955,2025-07-01 09:40:00,App Install,Android,13,Germany,Referral
+955,2025-07-01 09:41:00,Account Registration,Android,13,Germany,Referral
+956,2025-07-01 12:30:00,App Install,iOS,14.4,UK,Facebook
+956,2025-07-01 12:31:00,Account Registration,iOS,14.4,UK,Facebook
+956,2025-07-01 12:32:00,Email/Mobile Verification,iOS,14.4,UK,Facebook
+956,2025-07-01 12:33:00,Identity Verification (KYC),iOS,14.4,UK,Facebook
+956,2025-07-01 12:34:00,Setup PIN / Add Payment Method,iOS,14.4,UK,Facebook
+957,2025-07-02 01:35:00,App Install,iOS,14.4,Germany,Referral
+957,2025-07-02 01:36:00,Account Registration,iOS,14.4,Germany,Referral
+957,2025-07-02 01:37:00,Email/Mobile Verification,iOS,14.4,Germany,Referral
+957,2025-07-02 01:38:00,Identity Verification (KYC),iOS,14.4,Germany,Referral
+957,2025-07-02 01:39:00,Setup PIN / Add Payment Method,iOS,14.4,Germany,Referral
+958,2025-07-01 19:46:00,App Install,Android,10,Germany,Instagram
+959,2025-07-02 06:15:00,App Install,iOS,15.1,India,Referral
+959,2025-07-02 06:16:00,Account Registration,iOS,15.1,India,Referral
+959,2025-07-02 06:17:00,Email/Mobile Verification,iOS,15.1,India,Referral
+960,2025-07-01 20:44:00,App Install,iOS,16.2,US,Referral
+960,2025-07-01 20:45:00,Account Registration,iOS,16.2,US,Referral
+960,2025-07-01 20:46:00,Email/Mobile Verification,iOS,16.2,US,Referral
+960,2025-07-01 20:47:00,Identity Verification (KYC),iOS,16.2,US,Referral
+960,2025-07-01 20:48:00,Setup PIN / Add Payment Method,iOS,16.2,US,Referral
+960,2025-07-01 20:49:00,Onboarding Complete,iOS,16.2,US,Referral
+961,2025-07-01 23:13:00,App Install,iOS,14.4,UK,Referral
+961,2025-07-01 23:14:00,Account Registration,iOS,14.4,UK,Referral
+961,2025-07-01 23:15:00,Email/Mobile Verification,iOS,14.4,UK,Referral
+961,2025-07-01 23:16:00,Identity Verification (KYC),iOS,14.4,UK,Referral
+961,2025-07-01 23:17:00,Setup PIN / Add Payment Method,iOS,14.4,UK,Referral
+961,2025-07-01 23:18:00,Onboarding Complete,iOS,14.4,UK,Referral
+963,2025-07-02 01:51:00,App Install,Android,13,India,Referral
+964,2025-07-01 21:11:00,App Install,Android,10,UK,Organic
+965,2025-07-01 12:53:00,App Install,Android,10,UK,Referral
+966,2025-07-01 21:07:00,App Install,Android,13,UK,Organic
+966,2025-07-01 21:08:00,Account Registration,Android,13,UK,Organic
+966,2025-07-01 21:09:00,Email/Mobile Verification,Android,13,UK,Organic
+966,2025-07-01 21:10:00,Identity Verification (KYC),Android,13,UK,Organic
+966,2025-07-01 21:11:00,Setup PIN / Add Payment Method,Android,13,UK,Organic
+966,2025-07-01 21:12:00,Onboarding Complete,Android,13,UK,Organic
+967,2025-07-01 12:47:00,App Install,Android,10,Germany,Referral
+967,2025-07-01 12:48:00,Account Registration,Android,10,Germany,Referral
+967,2025-07-01 12:49:00,Email/Mobile Verification,Android,10,Germany,Referral
+967,2025-07-01 12:50:00,Identity Verification (KYC),Android,10,Germany,Referral
+968,2025-07-01 16:00:00,App Install,Android,10,US,Facebook
+969,2025-07-02 02:00:00,App Install,iOS,16.2,Germany,Instagram
+970,2025-07-01 15:53:00,App Install,iOS,15.1,US,Facebook
+970,2025-07-01 15:54:00,Account Registration,iOS,15.1,US,Facebook
+970,2025-07-01 15:55:00,Email/Mobile Verification,iOS,15.1,US,Facebook
+972,2025-07-02 06:29:00,App Install,iOS,16.2,Germany,Organic
+973,2025-07-01 23:06:00,App Install,iOS,14.4,US,Referral
+973,2025-07-01 23:07:00,Account Registration,iOS,14.4,US,Referral
+973,2025-07-01 23:08:00,Email/Mobile Verification,iOS,14.4,US,Referral
+973,2025-07-01 23:09:00,Identity Verification (KYC),iOS,14.4,US,Referral
+973,2025-07-01 23:10:00,Setup PIN / Add Payment Method,iOS,14.4,US,Referral
+973,2025-07-01 23:11:00,Onboarding Complete,iOS,14.4,US,Referral
+975,2025-07-01 11:05:00,App Install,iOS,15.1,US,Referral
+976,2025-07-01 23:18:00,App Install,Android,10,Brazil,Organic
+976,2025-07-01 23:19:00,Account Registration,Android,10,Brazil,Organic
+976,2025-07-01 23:20:00,Email/Mobile Verification,Android,10,Brazil,Organic
+977,2025-07-02 03:00:00,App Install,iOS,15.1,India,Organic
+978,2025-07-02 06:18:00,App Install,iOS,15.1,US,Instagram
+978,2025-07-02 06:19:00,Account Registration,iOS,15.1,US,Instagram
+978,2025-07-02 06:20:00,Email/Mobile Verification,iOS,15.1,US,Instagram
+978,2025-07-02 06:21:00,Identity Verification (KYC),iOS,15.1,US,Instagram
+978,2025-07-02 06:22:00,Setup PIN / Add Payment Method,iOS,15.1,US,Instagram
+979,2025-07-02 03:20:00,App Install,Android,12,India,Facebook
+979,2025-07-02 03:21:00,Account Registration,Android,12,India,Facebook
+979,2025-07-02 03:22:00,Email/Mobile Verification,Android,12,India,Facebook
+980,2025-07-02 03:50:00,App Install,iOS,14.4,India,Instagram
+980,2025-07-02 03:51:00,Account Registration,iOS,14.4,India,Instagram
+980,2025-07-02 03:52:00,Email/Mobile Verification,iOS,14.4,India,Instagram
+983,2025-07-01 09:10:00,App Install,Android,13,UK,Instagram
+983,2025-07-01 09:11:00,Account Registration,Android,13,UK,Instagram
+983,2025-07-01 09:12:00,Email/Mobile Verification,Android,13,UK,Instagram
+983,2025-07-01 09:13:00,Identity Verification (KYC),Android,13,UK,Instagram
+984,2025-07-02 07:45:00,App Install,Android,12,UK,Organic
+984,2025-07-02 07:46:00,Account Registration,Android,12,UK,Organic
+984,2025-07-02 07:47:00,Email/Mobile Verification,Android,12,UK,Organic
+984,2025-07-02 07:48:00,Identity Verification (KYC),Android,12,UK,Organic
+986,2025-07-01 23:31:00,App Install,iOS,15.1,India,Google Ads
+987,2025-07-01 16:19:00,App Install,Android,13,US,Referral
+987,2025-07-01 16:20:00,Account Registration,Android,13,US,Referral
+987,2025-07-01 16:21:00,Email/Mobile Verification,Android,13,US,Referral
+987,2025-07-01 16:22:00,Identity Verification (KYC),Android,13,US,Referral
+988,2025-07-02 06:43:00,App Install,iOS,15.1,Brazil,Referral
+988,2025-07-02 06:44:00,Account Registration,iOS,15.1,Brazil,Referral
+988,2025-07-02 06:45:00,Email/Mobile Verification,iOS,15.1,Brazil,Referral
+989,2025-07-01 13:20:00,App Install,iOS,14.4,US,Instagram
+989,2025-07-01 13:21:00,Account Registration,iOS,14.4,US,Instagram
+989,2025-07-01 13:22:00,Email/Mobile Verification,iOS,14.4,US,Instagram
+989,2025-07-01 13:23:00,Identity Verification (KYC),iOS,14.4,US,Instagram
+990,2025-07-01 14:21:00,App Install,Android,13,Germany,Facebook
+990,2025-07-01 14:22:00,Account Registration,Android,13,Germany,Facebook
+990,2025-07-01 14:23:00,Email/Mobile Verification,Android,13,Germany,Facebook
+990,2025-07-01 14:24:00,Identity Verification (KYC),Android,13,Germany,Facebook
+991,2025-07-01 10:22:00,App Install,Android,12,Brazil,Organic
+993,2025-07-01 10:39:00,App Install,Android,11,Brazil,Referral
+993,2025-07-01 10:40:00,Account Registration,Android,11,Brazil,Referral
+994,2025-07-02 03:41:00,App Install,Android,13,India,Facebook
+994,2025-07-02 03:42:00,Account Registration,Android,13,India,Facebook
+994,2025-07-02 03:43:00,Email/Mobile Verification,Android,13,India,Facebook
+994,2025-07-02 03:44:00,Identity Verification (KYC),Android,13,India,Facebook
+995,2025-07-01 13:31:00,App Install,iOS,15.1,Germany,Instagram
+995,2025-07-01 13:32:00,Account Registration,iOS,15.1,Germany,Instagram
+995,2025-07-01 13:33:00,Email/Mobile Verification,iOS,15.1,Germany,Instagram
+996,2025-07-02 06:19:00,App Install,iOS,14.4,UK,Facebook
+996,2025-07-02 06:20:00,Account Registration,iOS,14.4,UK,Facebook
+997,2025-07-02 07:53:00,App Install,iOS,15.1,Brazil,Facebook
+997,2025-07-02 07:54:00,Account Registration,iOS,15.1,Brazil,Facebook
+997,2025-07-02 07:55:00,Email/Mobile Verification,iOS,15.1,Brazil,Facebook
+997,2025-07-02 07:56:00,Identity Verification (KYC),iOS,15.1,Brazil,Facebook
+997,2025-07-02 07:57:00,Setup PIN / Add Payment Method,iOS,15.1,Brazil,Facebook
+1000,2025-07-01 17:22:00,App Install,Android,10,UK,Google Ads
+1000,2025-07-01 17:23:00,Account Registration,Android,10,UK,Google Ads
+1000,2025-07-01 17:24:00,Email/Mobile Verification,Android,10,UK,Google Ads
